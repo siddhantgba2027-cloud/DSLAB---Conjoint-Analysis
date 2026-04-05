@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+scipy
+gensim
+sentence-transformers
+matplotlib
+seaborn
+statsmodels
