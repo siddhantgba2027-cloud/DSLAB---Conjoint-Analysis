@@ -1,0 +1,636 @@
+Name,Company,Price,Processor,RAM,Storage,Warranty,Star_Rating
+ASUS Pentium Silver N6000 64 GB 128 SSD 13.3 inch FHD Laptop 001,ASUS,26510,Intel Pentium Silver N6000,64 GB,128,3,4.2
+ASUS Core 5 120U 24 GB 128 SSD 15.6 inch FHD Laptop 002,ASUS,48028,Intel Core 5 120U,24 GB,128,1,4.0
+ASUS Core 5 120U 32 GB 256 SSD 16 inch WUXGA Laptop 003,ASUS,47316,Intel Core 5 120U,32 GB,256,1,4.2
+ASUS Ryzen 3 7320U 32 GB 256 SSD 16 inch IPS QHD Laptop 004,ASUS,88246,AMD Ryzen 3 7320U,32 GB,256,1,4.0
+ASUS Core i7 13620H 16 GB 512 SSD 16 inch OLED Laptop 005,ASUS,26056,Intel Core i7 13620H,16 GB,512,2,4.6
+ASUS Ryzen 7 7840HS 16 GB 128 SSD 16 inch IPS QHD Laptop 006,ASUS,27177,AMD Ryzen 7 7840HS,16 GB,128,1,4.4
+ASUS Core Ultra 9 8 GB 512 SSD 16 inch IPS QHD Laptop 007,ASUS,58929,Intel Core Ultra 9 185H,8 GB,512,2,4.7
+ASUS Core Ultra 9 8 GB 2 SSD 16 inch IPS QHD Laptop 008,ASUS,135572,Intel Core Ultra 9 185H,8 GB,2,1,4.5
+ASUS Celeron N4500 16 GB 512 SSD 16 inch WUXGA Laptop 009,ASUS,55806,Intel Celeron N4500,16 GB,512,4,4.0
+ASUS Ryzen 9 8945HS 32 GB 128 SSD 16 inch OLED Laptop 010,ASUS,38885,AMD Ryzen 9 8945HS,32 GB,128,1,4.6
+ASUS Core 7 150U 8 GB 2 SSD 16 inch IPS QHD Laptop 011,ASUS,45835,Intel Core 7 150U,8 GB,2,3,4.6
+ASUS Celeron N4500 24 GB 1 SSD 16 inch WUXGA Laptop 012,ASUS,55575,Intel Celeron N4500,24 GB,1,2,4.2
+ASUS Ryzen 9 8945HS 24 GB 1 SSD 14 inch OLED Laptop 013,ASUS,27391,AMD Ryzen 9 8945HS,24 GB,1,1,4.9
+ASUS Qualcomm Reference Chip 32 GB 512 SSD 13.3 inch FHD Laptop 014,ASUS,28384,Qualcomm Reference Chip,32 GB,512,2,4.4
+ASUS Core 9 185H 4 GB 512 SSD 16 inch OLED Laptop 015,ASUS,29416,Intel Core 9 185H,4 GB,512,3,4.6
+ASUS Core 5 120U 16 GB 512 SSD 14 inch WUXGA Laptop 016,ASUS,28236,Intel Core 5 120U,16 GB,512,4,4.3
+ASUS Core Ultra 7 4 GB 256 SSD 14 inch OLED Laptop 017,ASUS,25436,Intel Core Ultra 7 155H,4 GB,256,1,4.4
+ASUS Unspecified Compute Platform 16 GB 512 SSD 16 inch OLED Laptop 018,ASUS,71932,Unspecified Compute Platform,16 GB,512,1,3.9
+ASUS Ryzen 7 7840HS 16 GB 1 SSD 16 inch IPS QHD Laptop 019,ASUS,141550,AMD Ryzen 7 7840HS,16 GB,1,1,4.2
+ASUS Core i7 13620H 64 GB 1 SSD 16 inch OLED Laptop 020,ASUS,43885,Intel Core i7 13620H,64 GB,1,3,4.9
+ASUS MediaTek Kompanio 520 8 GB 128 SSD 16 inch OLED Laptop 021,ASUS,124506,MediaTek Kompanio 520,8 GB,128,2,3.4
+ASUS Pentium Silver N6000 16 GB 2 SSD 14 inch FHD Laptop 022,ASUS,26001,Intel Pentium Silver N6000,16 GB,2,2,4.2
+ASUS Celeron N4500 8 GB 1 SSD 16 inch WUXGA Laptop 023,ASUS,46702,Intel Celeron N4500,8 GB,1,3,3.8
+ASUS Core i5 1235U 16 GB 256 SSD 15.6 inch FHD Laptop 024,ASUS,43697,Intel Core i5 1235U,16 GB,256,2,4.0
+ASUS MediaTek Kompanio 520 8 GB 2 SSD 16 inch OLED Laptop 025,ASUS,108146,MediaTek Kompanio 520,8 GB,2,1,4.0
+ASUS Core 9 185H 64 GB 512 SSD 16 inch OLED Laptop 026,ASUS,59729,Intel Core 9 185H,64 GB,512,4,4.9
+ASUS Core i5 1235U 16 GB 2 SSD 14 inch FHD Laptop 027,ASUS,29057,Intel Core i5 1235U,16 GB,2,2,4.3
+ASUS Core 5 120U 4 GB 512 SSD 14 inch OLED Laptop 028,ASUS,131343,Intel Core 5 120U,4 GB,512,2,4.0
+ASUS MediaTek Kompanio 520 24 GB 1 SSD 15.6 inch IPS Laptop 029,ASUS,45141,MediaTek Kompanio 520,24 GB,1,2,4.3
+ASUS MediaTek Kompanio 520 24 GB 512 SSD 13.3 inch FHD Laptop 030,ASUS,25085,MediaTek Kompanio 520,24 GB,512,2,4.3
+ASUS Qualcomm Reference Chip 8 GB 512 SSD 16 inch OLED Laptop 031,ASUS,65705,Qualcomm Reference Chip,8 GB,512,2,3.6
+ASUS Ryzen 3 7320U 4 GB 128 SSD 15.6 inch FHD Laptop 032,ASUS,37442,AMD Ryzen 3 7320U,4 GB,128,2,3.7
+ASUS Core 5 120U 16 GB 256 SSD 14 inch FHD Laptop 033,ASUS,28339,Intel Core 5 120U,16 GB,256,1,4.1
+ASUS Core 7 150U 24 GB 1 SSD 14 inch OLED Laptop 034,ASUS,25462,Intel Core 7 150U,24 GB,1,2,4.6
+ASUS Core Ultra 5 64 GB 256 SSD 16 inch IPS QHD Laptop 035,ASUS,27337,Intel Core Ultra 5 125H,64 GB,256,2,4.4
+ASUS Athlon Silver 3050U 16 GB 128 SSD 14 inch WUXGA Laptop 036,ASUS,28766,AMD Athlon Silver 3050U,16 GB,128,1,3.8
+ASUS Ryzen 5 7530U 16 GB 256 SSD 14 inch OLED Laptop 037,ASUS,122171,AMD Ryzen 5 7530U,16 GB,256,3,4.2
+ASUS Ryzen 9 8945HS 16 GB 2 SSD 16 inch OLED Laptop 038,ASUS,26030,AMD Ryzen 9 8945HS,16 GB,2,4,4.9
+ASUS Unspecified Compute Platform 16 GB 512 SSD 13.3 inch FHD Laptop 039,ASUS,26895,Unspecified Compute Platform,16 GB,512,1,4.6
+ASUS Ryzen 7 7840HS 16 GB 2 SSD 16 inch OLED Laptop 040,ASUS,132718,AMD Ryzen 7 7840HS,16 GB,2,1,4.5
+ASUS Core 5 120U 8 GB 128 SSD 14 inch WUXGA Laptop 041,ASUS,25829,Intel Core 5 120U,8 GB,128,2,3.8
+ASUS Ryzen 3 7320U 4 GB 256 SSD 14 inch FHD Laptop 042,ASUS,26043,AMD Ryzen 3 7320U,4 GB,256,1,4.0
+ASUS Ryzen 3 7320U 16 GB 128 SSD 16 inch OLED Laptop 043,ASUS,106107,AMD Ryzen 3 7320U,16 GB,128,2,4.0
+ASUS Ryzen 3 7320U 24 GB 512 SSD 15.6 inch FHD Laptop 044,ASUS,43159,AMD Ryzen 3 7320U,24 GB,512,1,4.3
+ASUS Snapdragon X Plus 64 GB 512 SSD 15.6 inch IPS Laptop 045,ASUS,49663,Snapdragon X Plus X1P-42-100,64 GB,512,3,4.1
+ASUS Core i5 1235U 4 GB 1 SSD 14 inch OLED Laptop 046,ASUS,77903,Intel Core i5 1235U,4 GB,1,3,4.1
+ASUS Core i3 1215U 16 GB 2 SSD 16 inch OLED Laptop 047,ASUS,119337,Intel Core i3 1215U,16 GB,2,2,4.0
+ASUS Core Ultra 7 4 GB 128 SSD 14 inch OLED Laptop 048,ASUS,48757,Intel Core Ultra 7 155H,4 GB,128,4,4.5
+ASUS Qualcomm Reference Chip 32 GB 512 SSD 13.3 inch FHD Laptop 049,ASUS,25021,Qualcomm Reference Chip,32 GB,512,1,4.5
+ASUS Unspecified Compute Platform 8 GB 2 SSD 14 inch WUXGA Laptop 050,ASUS,29890,Unspecified Compute Platform,8 GB,2,1,4.3
+ASUS Core Ultra 5 32 GB 256 SSD 16 inch IPS QHD Laptop 051,ASUS,143736,Intel Core Ultra 5 125H,32 GB,256,2,4.0
+ASUS Snapdragon X Plus 32 GB 2 SSD 15.6 inch IPS Laptop 052,ASUS,52179,Snapdragon X Plus X1P-42-100,32 GB,2,3,4.8
+ASUS Unspecified Compute Platform 32 GB 2 SSD 16 inch IPS QHD Laptop 053,ASUS,133945,Unspecified Compute Platform,32 GB,2,1,4.0
+ASUS Core i9 13900H 24 GB 256 SSD 16 inch OLED Laptop 054,ASUS,28855,Intel Core i9 13900H,24 GB,256,2,4.9
+ASUS Pentium Silver N6000 16 GB 256 SSD 14 inch FHD Laptop 055,ASUS,29769,Intel Pentium Silver N6000,16 GB,256,2,4.0
+ASUS Ryzen 7 7840HS 4 GB 256 SSD 14 inch OLED Laptop 056,ASUS,143720,AMD Ryzen 7 7840HS,4 GB,256,2,4.0
+ASUS Core i5 1235U 16 GB 1 SSD 16 inch WUXGA Laptop 057,ASUS,52545,Intel Core i5 1235U,16 GB,1,2,4.5
+ASUS Snapdragon X Plus 64 GB 512 SSD 15.6 inch IPS Laptop 058,ASUS,41701,Snapdragon X Plus X1P-42-100,64 GB,512,1,4.2
+ASUS Core i9 13900H 4 GB 512 SSD 14 inch OLED Laptop 059,ASUS,24245,Intel Core i9 13900H,4 GB,512,4,4.9
+ASUS MediaTek Kompanio 520 64 GB 128 SSD 16 inch OLED Laptop 060,ASUS,143800,MediaTek Kompanio 520,64 GB,128,4,4.0
+ASUS Core 5 120U 4 GB 512 SSD 16 inch OLED Laptop 061,ASUS,82078,Intel Core 5 120U,4 GB,512,3,4.1
+ASUS Core i7 13620H 16 GB 512 SSD 16 inch OLED Laptop 062,ASUS,27899,Intel Core i7 13620H,16 GB,512,2,4.4
+ASUS Celeron N4500 24 GB 2 SSD 14 inch FHD Laptop 063,ASUS,28812,Intel Celeron N4500,24 GB,2,1,4.2
+ASUS Core 9 185H 8 GB 512 SSD 16 inch IPS QHD Laptop 064,ASUS,55032,Intel Core 9 185H,8 GB,512,2,4.5
+ASUS Qualcomm Reference Chip 16 GB 128 SSD 13.3 inch FHD Laptop 065,ASUS,26236,Qualcomm Reference Chip,16 GB,128,2,4.2
+ASUS Ryzen 5 7530U 16 GB 1 SSD 16 inch IPS QHD Laptop 066,ASUS,71070,AMD Ryzen 5 7530U,16 GB,1,4,4.0
+ASUS Ryzen 3 7320U 16 GB 512 SSD 16 inch OLED Laptop 067,ASUS,121201,AMD Ryzen 3 7320U,16 GB,512,2,4.2
+ASUS Unspecified Compute Platform 8 GB 1 SSD 14 inch WUXGA Laptop 068,ASUS,28439,Unspecified Compute Platform,8 GB,1,4,4.2
+ASUS Pentium Silver N6000 16 GB 256 SSD 16 inch IPS QHD Laptop 069,ASUS,66064,Intel Pentium Silver N6000,16 GB,256,2,3.4
+ASUS Snapdragon X Plus 24 GB 128 SSD 15.6 inch IPS Laptop 070,ASUS,38542,Snapdragon X Plus X1P-42-100,24 GB,128,1,4.2
+ASUS Ryzen 5 7530U 32 GB 128 SSD 16 inch WUXGA Laptop 071,ASUS,46409,AMD Ryzen 5 7530U,32 GB,128,1,4.0
+ASUS Qualcomm Reference Chip 16 GB 512 SSD 16 inch OLED Laptop 072,ASUS,106041,Qualcomm Reference Chip,16 GB,512,1,3.8
+ASUS Core i9 13900H 8 GB 512 SSD 16 inch IPS QHD Laptop 073,ASUS,28198,Intel Core i9 13900H,8 GB,512,2,4.9
+ASUS Snapdragon X Plus 16 GB 256 SSD 16 inch WUXGA Laptop 074,ASUS,39130,Snapdragon X Plus X1P-42-100,16 GB,256,2,4.2
+ASUS Core i7 13620H 32 GB 2 SSD 16 inch IPS QHD Laptop 075,ASUS,90886,Intel Core i7 13620H,32 GB,2,1,4.2
+ASUS Snapdragon X Plus 8 GB 512 SSD 14 inch WUXGA Laptop 076,ASUS,25793,Snapdragon X Plus X1P-42-100,8 GB,512,1,4.0
+ASUS Ryzen 7 7840HS 16 GB 256 SSD 16 inch IPS QHD Laptop 077,ASUS,94946,AMD Ryzen 7 7840HS,16 GB,256,1,3.8
+ASUS Celeron N4500 16 GB 512 SSD 13.3 inch FHD Laptop 078,ASUS,27297,Intel Celeron N4500,16 GB,512,2,4.3
+ASUS Core Ultra 5 64 GB 128 SSD 16 inch OLED Laptop 079,ASUS,69039,Intel Core Ultra 5 125H,64 GB,128,2,4.2
+ASUS Athlon Silver 3050U 4 GB 1 SSD 16 inch OLED Laptop 080,ASUS,97266,AMD Athlon Silver 3050U,4 GB,1,4,4.1
+ASUS Core 5 120U 16 GB 2 SSD 15.6 inch IPS Laptop 081,ASUS,40298,Intel Core 5 120U,16 GB,2,1,4.5
+ASUS Snapdragon X Plus 4 GB 2 SSD 14 inch OLED Laptop 082,ASUS,71905,Snapdragon X Plus X1P-42-100,4 GB,2,2,4.2
+ASUS Athlon Silver 3050U 24 GB 512 SSD 16 inch WUXGA Laptop 083,ASUS,55958,AMD Athlon Silver 3050U,24 GB,512,4,4.2
+ASUS Ryzen 9 8945HS 16 GB 512 SSD 16 inch IPS QHD Laptop 084,ASUS,67004,AMD Ryzen 9 8945HS,16 GB,512,3,4.5
+ASUS Core 7 150U 8 GB 512 SSD 14 inch OLED Laptop 085,ASUS,26981,Intel Core 7 150U,8 GB,512,3,4.3
+ASUS Core i5 1235U 16 GB 1 SSD 14 inch FHD Laptop 086,ASUS,24494,Intel Core i5 1235U,16 GB,1,1,4.4
+ASUS Core i3 1215U 4 GB 1 SSD 15.6 inch IPS Laptop 087,ASUS,32494,Intel Core i3 1215U,4 GB,1,3,4.0
+ASUS Core 5 120U 64 GB 512 SSD 15.6 inch IPS Laptop 088,ASUS,56660,Intel Core 5 120U,64 GB,512,3,4.4
+ASUS Core 3 100U 32 GB 256 SSD 16 inch OLED Laptop 089,ASUS,141874,Intel Core 3 100U,32 GB,256,1,4.1
+ASUS Core Ultra 5 32 GB 256 SSD 16 inch OLED Laptop 090,ASUS,39967,Intel Core Ultra 5 125H,32 GB,256,3,4.6
+ASUS Core Ultra 5 4 GB 512 SSD 14 inch OLED Laptop 091,ASUS,47693,Intel Core Ultra 5 125H,4 GB,512,3,4.4
+ASUS Ryzen 5 7530U 64 GB 512 SSD 15.6 inch FHD Laptop 092,ASUS,46827,AMD Ryzen 5 7530U,64 GB,512,2,4.5
+ASUS Ryzen AI 9 8 GB 1 SSD 16 inch IPS QHD Laptop 093,ASUS,27719,AMD Ryzen AI 9 HX 370,8 GB,1,1,4.6
+ASUS Unspecified Compute Platform 24 GB 1 SSD 16 inch OLED Laptop 094,ASUS,82034,Unspecified Compute Platform,24 GB,1,1,4.0
+ASUS Core 9 185H 24 GB 1 SSD 14 inch OLED Laptop 095,ASUS,41716,Intel Core 9 185H,24 GB,1,4,4.9
+ASUS Core i7 13620H 24 GB 128 SSD 16 inch IPS QHD Laptop 096,ASUS,82800,Intel Core i7 13620H,24 GB,128,1,3.8
+ASUS MediaTek Kompanio 520 16 GB 256 SSD 16 inch OLED Laptop 097,ASUS,114697,MediaTek Kompanio 520,16 GB,256,1,3.4
+ASUS Core 3 100U 64 GB 128 SSD 16 inch WUXGA Laptop 098,ASUS,59851,Intel Core 3 100U,64 GB,128,4,4.1
+ASUS Unspecified Compute Platform 24 GB 2 SSD 14 inch WUXGA Laptop 099,ASUS,29415,Unspecified Compute Platform,24 GB,2,3,4.6
+ASUS Unspecified Compute Platform 16 GB 1 SSD 15.6 inch FHD Laptop 100,ASUS,36793,Unspecified Compute Platform,16 GB,1,2,4.8
+ASUS Unspecified Compute Platform 16 GB 128 SSD 14 inch OLED Laptop 101,ASUS,97453,Unspecified Compute Platform,16 GB,128,4,4.2
+ASUS Core 3 100U 16 GB 512 SSD 16 inch OLED Laptop 102,ASUS,126703,Intel Core 3 100U,16 GB,512,1,4.3
+ASUS Core 5 120U 16 GB 2 SSD 15.6 inch IPS Laptop 103,ASUS,35910,Intel Core 5 120U,16 GB,2,2,4.2
+ASUS Core i5 1235U 16 GB 256 SSD 14 inch WUXGA Laptop 104,ASUS,28435,Intel Core i5 1235U,16 GB,256,2,4.0
+ASUS Core i9 13900H 4 GB 128 SSD 14 inch OLED Laptop 105,ASUS,25476,Intel Core i9 13900H,4 GB,128,1,4.6
+ASUS Athlon Silver 3050U 16 GB 128 SSD 14 inch WUXGA Laptop 106,ASUS,26730,AMD Athlon Silver 3050U,16 GB,128,3,3.9
+ASUS Ryzen 7 7840HS 8 GB 512 SSD 14 inch OLED Laptop 107,ASUS,24285,AMD Ryzen 7 7840HS,8 GB,512,1,4.4
+ASUS Core i9 13900H 8 GB 1 SSD 16 inch IPS QHD Laptop 108,ASUS,93914,Intel Core i9 13900H,8 GB,1,4,4.3
+ASUS Core i7 13620H 8 GB 512 SSD 16 inch OLED Laptop 109,ASUS,44579,Intel Core i7 13620H,8 GB,512,2,4.6
+ASUS Qualcomm Reference Chip 8 GB 512 SSD 15.6 inch FHD Laptop 110,ASUS,45734,Qualcomm Reference Chip,8 GB,512,1,3.8
+ASUS Qualcomm Reference Chip 16 GB 512 SSD 15.6 inch FHD Laptop 111,ASUS,43665,Qualcomm Reference Chip,16 GB,512,3,4.2
+ASUS Qualcomm Reference Chip 4 GB 1 SSD 16 inch IPS QHD Laptop 112,ASUS,133610,Qualcomm Reference Chip,4 GB,1,3,4.6
+ASUS Qualcomm Reference Chip 4 GB 2 SSD 15.6 inch FHD Laptop 113,ASUS,45706,Qualcomm Reference Chip,4 GB,2,1,4.0
+ASUS Celeron N4500 16 GB 1 SSD 14 inch FHD Laptop 114,ASUS,26587,Intel Celeron N4500,16 GB,1,4,4.2
+ASUS Ryzen 9 8945HS 16 GB 1 SSD 16 inch OLED Laptop 115,ASUS,27178,AMD Ryzen 9 8945HS,16 GB,1,3,4.9
+ASUS Core i5 1235U 24 GB 512 SSD 15.6 inch IPS Laptop 116,ASUS,38789,Intel Core i5 1235U,24 GB,512,2,4.7
+ASUS MediaTek Kompanio 520 32 GB 256 SSD 16 inch WUXGA Laptop 117,ASUS,41333,MediaTek Kompanio 520,32 GB,256,1,3.7
+ASUS Core i3 1215U 64 GB 128 SSD 13.3 inch FHD Laptop 118,ASUS,29582,Intel Core i3 1215U,64 GB,128,3,4.7
+ASUS Core i3 1215U 16 GB 512 SSD 15.6 inch IPS Laptop 119,ASUS,44901,Intel Core i3 1215U,16 GB,512,2,4.0
+ASUS Snapdragon X Plus 8 GB 512 SSD 14 inch OLED Laptop 120,ASUS,74487,Snapdragon X Plus X1P-42-100,8 GB,512,2,3.9
+ASUS Ryzen 7 7840HS 16 GB 512 SSD 14 inch OLED Laptop 121,ASUS,88478,AMD Ryzen 7 7840HS,16 GB,512,1,3.9
+ASUS Core i9 13900H 4 GB 512 SSD 16 inch OLED Laptop 122,ASUS,69455,Intel Core i9 13900H,4 GB,512,3,4.6
+ASUS MediaTek Kompanio 520 16 GB 128 SSD 14 inch WUXGA Laptop 123,ASUS,24187,MediaTek Kompanio 520,16 GB,128,3,4.4
+ASUS Qualcomm Reference Chip 64 GB 2 SSD 15.6 inch IPS Laptop 124,ASUS,38765,Qualcomm Reference Chip,64 GB,2,2,4.5
+ASUS Celeron N4500 8 GB 1 SSD 14 inch FHD Laptop 125,ASUS,28124,Intel Celeron N4500,8 GB,1,2,4.1
+ASUS Core Ultra 5 4 GB 128 SSD 14 inch OLED Laptop 126,ASUS,29120,Intel Core Ultra 5 125H,4 GB,128,4,4.2
+ASUS Unspecified Compute Platform 4 GB 512 SSD 14 inch OLED Laptop 127,ASUS,136427,Unspecified Compute Platform,4 GB,512,4,3.8
+ASUS Snapdragon X Plus 64 GB 128 SSD 14 inch OLED Laptop 128,ASUS,82623,Snapdragon X Plus X1P-42-100,64 GB,128,4,3.7
+ASUS Ryzen 3 7320U 4 GB 256 SSD 14 inch FHD Laptop 129,ASUS,29456,AMD Ryzen 3 7320U,4 GB,256,1,3.7
+ASUS Ryzen 5 7530U 16 GB 512 SSD 14 inch OLED Laptop 130,ASUS,92007,AMD Ryzen 5 7530U,16 GB,512,1,4.2
+ASUS Ryzen 9 8945HS 8 GB 512 SSD 14 inch OLED Laptop 131,ASUS,88427,AMD Ryzen 9 8945HS,8 GB,512,4,4.3
+ASUS Unspecified Compute Platform 4 GB 512 SSD 15.6 inch IPS Laptop 132,ASUS,40300,Unspecified Compute Platform,4 GB,512,3,4.0
+ASUS Unspecified Compute Platform 32 GB 2 SSD 15.6 inch FHD Laptop 133,ASUS,55051,Unspecified Compute Platform,32 GB,2,2,4.7
+ASUS Core i5 1235U 16 GB 2 SSD 15.6 inch FHD Laptop 134,ASUS,52605,Intel Core i5 1235U,16 GB,2,2,4.6
+ASUS Core 3 100U 4 GB 128 SSD 16 inch OLED Laptop 135,ASUS,75735,Intel Core 3 100U,4 GB,128,2,3.6
+ASUS Unspecified Compute Platform 8 GB 512 SSD 16 inch OLED Laptop 136,ASUS,120772,Unspecified Compute Platform,8 GB,512,2,4.0
+ASUS Core 9 185H 64 GB 2 SSD 14 inch OLED Laptop 137,ASUS,72306,Intel Core 9 185H,64 GB,2,4,4.9
+ASUS Celeron N4500 16 GB 512 SSD 14 inch FHD Laptop 138,ASUS,25417,Intel Celeron N4500,16 GB,512,1,4.2
+ASUS Core i7 13620H 8 GB 1 SSD 16 inch OLED Laptop 139,ASUS,51406,Intel Core i7 13620H,8 GB,1,1,4.4
+ASUS Core i9 13900H 24 GB 256 SSD 16 inch IPS QHD Laptop 140,ASUS,35397,Intel Core i9 13900H,24 GB,256,1,4.8
+Lenovo Core i7 13620H 32 GB 512 SSD 16 inch OLED Laptop 001,Lenovo,29810,Intel Core i7 13620H,32 GB,512,1,4.9
+Lenovo Core 3 100U 8 GB 128 SSD 16 inch WUXGA Laptop 002,Lenovo,47754,Intel Core 3 100U,8 GB,128,1,3.2
+Lenovo MediaTek Kompanio 520 16 GB 256 SSD 16 inch IPS QHD Laptop 003,Lenovo,83366,MediaTek Kompanio 520,16 GB,256,1,3.8
+Lenovo Unspecified Compute Platform 8 GB 2 SSD 16 inch OLED Laptop 004,Lenovo,77061,Unspecified Compute Platform,8 GB,2,4,4.1
+Lenovo Celeron N4500 8 GB 256 SSD 15.6 inch FHD Laptop 005,Lenovo,50384,Intel Celeron N4500,8 GB,256,1,3.4
+Lenovo Snapdragon X Plus 8 GB 512 SSD 14 inch FHD Laptop 006,Lenovo,24623,Snapdragon X Plus X1P-42-100,8 GB,512,4,4.4
+Lenovo Ryzen AI 9 16 GB 2 SSD 16 inch OLED Laptop 007,Lenovo,24027,AMD Ryzen AI 9 HX 370,16 GB,2,1,4.4
+Lenovo Unspecified Compute Platform 16 GB 128 SSD 16 inch WUXGA Laptop 008,Lenovo,51051,Unspecified Compute Platform,16 GB,128,2,3.9
+Lenovo Ryzen 5 7530U 32 GB 512 SSD 15.6 inch FHD Laptop 009,Lenovo,32742,AMD Ryzen 5 7530U,32 GB,512,1,4.5
+Lenovo Core 7 150U 64 GB 512 SSD 14 inch OLED Laptop 010,Lenovo,55860,Intel Core 7 150U,64 GB,512,1,4.3
+Lenovo Celeron N4500 4 GB 512 SSD 14 inch OLED Laptop 011,Lenovo,100658,Intel Celeron N4500,4 GB,512,3,3.2
+Lenovo Core i5 1235U 32 GB 2 SSD 14 inch WUXGA Laptop 012,Lenovo,25984,Intel Core i5 1235U,32 GB,2,1,4.6
+Lenovo Unspecified Compute Platform 8 GB 2 SSD 14 inch FHD Laptop 013,Lenovo,29105,Unspecified Compute Platform,8 GB,2,4,4.3
+Lenovo Core i5 1235U 4 GB 2 SSD 13.3 inch FHD Laptop 014,Lenovo,26608,Intel Core i5 1235U,4 GB,2,2,4.7
+Lenovo Ryzen 5 7530U 16 GB 1 SSD 14 inch FHD Laptop 015,Lenovo,25289,AMD Ryzen 5 7530U,16 GB,1,1,4.6
+Lenovo Athlon Silver 3050U 24 GB 256 SSD 14 inch OLED Laptop 016,Lenovo,141978,AMD Athlon Silver 3050U,24 GB,256,4,4.2
+Lenovo Ryzen AI 9 16 GB 2 SSD 14 inch OLED Laptop 017,Lenovo,29586,AMD Ryzen AI 9 HX 370,16 GB,2,4,4.9
+Lenovo Core Ultra 5 8 GB 512 SSD 16 inch IPS QHD Laptop 018,Lenovo,26246,Intel Core Ultra 5 125H,8 GB,512,2,4.5
+Lenovo Core i7 13620H 16 GB 128 SSD 16 inch IPS QHD Laptop 019,Lenovo,129310,Intel Core i7 13620H,16 GB,128,4,4.2
+Lenovo Pentium Silver N6000 4 GB 2 SSD 15.6 inch IPS Laptop 020,Lenovo,59500,Intel Pentium Silver N6000,4 GB,2,4,4.0
+Lenovo Athlon Silver 3050U 16 GB 256 SSD 16 inch IPS QHD Laptop 021,Lenovo,139601,AMD Athlon Silver 3050U,16 GB,256,1,3.5
+Lenovo Core 3 100U 24 GB 1 SSD 14 inch OLED Laptop 022,Lenovo,71827,Intel Core 3 100U,24 GB,1,4,4.8
+Lenovo Ryzen 5 7530U 4 GB 512 SSD 16 inch OLED Laptop 023,Lenovo,67718,AMD Ryzen 5 7530U,4 GB,512,1,3.6
+Lenovo Core 3 100U 8 GB 128 SSD 16 inch OLED Laptop 024,Lenovo,134570,Intel Core 3 100U,8 GB,128,1,3.6
+Lenovo Core i3 1215U 24 GB 512 SSD 14 inch WUXGA Laptop 025,Lenovo,27122,Intel Core i3 1215U,24 GB,512,2,4.4
+Lenovo Unspecified Compute Platform 16 GB 512 SSD 16 inch IPS QHD Laptop 026,Lenovo,97990,Unspecified Compute Platform,16 GB,512,2,4.0
+Lenovo Ryzen 7 7840HS 32 GB 512 SSD 14 inch OLED Laptop 027,Lenovo,49545,AMD Ryzen 7 7840HS,32 GB,512,4,4.4
+Lenovo Core i9 13900H 16 GB 1 SSD 16 inch OLED Laptop 028,Lenovo,49324,Intel Core i9 13900H,16 GB,1,3,4.9
+Lenovo Celeron N4500 8 GB 128 SSD 16 inch WUXGA Laptop 029,Lenovo,46623,Intel Celeron N4500,8 GB,128,4,3.8
+Lenovo Core i5 1235U 16 GB 1 SSD 13.3 inch FHD Laptop 030,Lenovo,27445,Intel Core i5 1235U,16 GB,1,2,4.5
+Lenovo Celeron N4500 16 GB 512 SSD 14 inch FHD Laptop 031,Lenovo,26064,Intel Celeron N4500,16 GB,512,2,4.1
+Lenovo Core i7 13620H 4 GB 2 SSD 16 inch OLED Laptop 032,Lenovo,37564,Intel Core i7 13620H,4 GB,2,1,4.3
+Lenovo Core 3 100U 24 GB 2 SSD 16 inch IPS QHD Laptop 033,Lenovo,142877,Intel Core 3 100U,24 GB,2,3,4.1
+Lenovo Core i7 13620H 8 GB 256 SSD 16 inch OLED Laptop 034,Lenovo,29228,Intel Core i7 13620H,8 GB,256,4,4.5
+Lenovo Athlon Silver 3050U 4 GB 1 SSD 13.3 inch FHD Laptop 035,Lenovo,26586,AMD Athlon Silver 3050U,4 GB,1,2,4.0
+Lenovo Pentium Silver N6000 16 GB 1 SSD 14 inch OLED Laptop 036,Lenovo,106372,Intel Pentium Silver N6000,16 GB,1,2,3.9
+Lenovo Qualcomm Reference Chip 16 GB 512 SSD 16 inch WUXGA Laptop 037,Lenovo,45398,Qualcomm Reference Chip,16 GB,512,2,4.3
+Lenovo MediaTek Kompanio 520 8 GB 128 SSD 15.6 inch FHD Laptop 038,Lenovo,51762,MediaTek Kompanio 520,8 GB,128,1,3.8
+Lenovo Ryzen 3 7320U 16 GB 512 SSD 15.6 inch FHD Laptop 039,Lenovo,46618,AMD Ryzen 3 7320U,16 GB,512,2,4.2
+Lenovo Unspecified Compute Platform 16 GB 1 SSD 13.3 inch FHD Laptop 040,Lenovo,25865,Unspecified Compute Platform,16 GB,1,2,4.3
+Lenovo MediaTek Kompanio 520 16 GB 2 SSD 16 inch OLED Laptop 041,Lenovo,137664,MediaTek Kompanio 520,16 GB,2,2,3.9
+Lenovo Core i9 13900H 16 GB 128 SSD 14 inch OLED Laptop 042,Lenovo,62393,Intel Core i9 13900H,16 GB,128,1,4.2
+Lenovo Ryzen 5 7530U 8 GB 128 SSD 16 inch WUXGA Laptop 043,Lenovo,46977,AMD Ryzen 5 7530U,8 GB,128,1,3.8
+Lenovo Qualcomm Reference Chip 64 GB 256 SSD 14 inch FHD Laptop 044,Lenovo,28247,Qualcomm Reference Chip,64 GB,256,2,4.3
+Lenovo Core 7 150U 64 GB 512 SSD 16 inch IPS QHD Laptop 045,Lenovo,144102,Intel Core 7 150U,64 GB,512,2,4.5
+Lenovo Core i9 13900H 4 GB 512 SSD 16 inch OLED Laptop 046,Lenovo,25732,Intel Core i9 13900H,4 GB,512,3,4.3
+Lenovo Ryzen 9 8945HS 24 GB 2 SSD 14 inch OLED Laptop 047,Lenovo,25187,AMD Ryzen 9 8945HS,24 GB,2,1,4.9
+Lenovo MediaTek Kompanio 520 16 GB 128 SSD 15.6 inch FHD Laptop 048,Lenovo,50870,MediaTek Kompanio 520,16 GB,128,4,3.9
+Lenovo Core i5 1235U 16 GB 256 SSD 14 inch FHD Laptop 049,Lenovo,28980,Intel Core i5 1235U,16 GB,256,1,4.0
+Lenovo Core i3 1215U 64 GB 256 SSD 14 inch WUXGA Laptop 050,Lenovo,26171,Intel Core i3 1215U,64 GB,256,4,4.5
+Lenovo Unspecified Compute Platform 16 GB 512 SSD 13.3 inch FHD Laptop 051,Lenovo,29537,Unspecified Compute Platform,16 GB,512,4,4.2
+Lenovo Core i5 1235U 32 GB 1 SSD 14 inch FHD Laptop 052,Lenovo,29792,Intel Core i5 1235U,32 GB,1,2,4.6
+Lenovo Unspecified Compute Platform 4 GB 256 SSD 16 inch IPS QHD Laptop 053,Lenovo,120502,Unspecified Compute Platform,4 GB,256,4,3.5
+Lenovo Core Ultra 7 4 GB 128 SSD 16 inch OLED Laptop 054,Lenovo,26318,Intel Core Ultra 7 155H,4 GB,128,2,4.8
+Lenovo Core i5 1235U 32 GB 128 SSD 15.6 inch IPS Laptop 055,Lenovo,35194,Intel Core i5 1235U,32 GB,128,3,4.1
+Lenovo Ryzen 9 8945HS 24 GB 256 SSD 16 inch OLED Laptop 056,Lenovo,28346,AMD Ryzen 9 8945HS,24 GB,256,2,4.6
+Lenovo Core 3 100U 16 GB 128 SSD 16 inch WUXGA Laptop 057,Lenovo,55384,Intel Core 3 100U,16 GB,128,1,4.0
+Lenovo Core Ultra 9 24 GB 128 SSD 14 inch OLED Laptop 058,Lenovo,24945,Intel Core Ultra 9 185H,24 GB,128,2,4.8
+Lenovo Snapdragon X Plus 16 GB 1 SSD 14 inch OLED Laptop 059,Lenovo,142987,Snapdragon X Plus X1P-42-100,16 GB,1,2,3.8
+Lenovo Ryzen 9 8945HS 16 GB 128 SSD 16 inch IPS QHD Laptop 060,Lenovo,104808,AMD Ryzen 9 8945HS,16 GB,128,1,4.0
+Lenovo Core 5 120U 64 GB 256 SSD 16 inch WUXGA Laptop 061,Lenovo,33138,Intel Core 5 120U,64 GB,256,2,3.8
+Lenovo Core i3 1215U 32 GB 512 SSD 13.3 inch FHD Laptop 062,Lenovo,26132,Intel Core i3 1215U,32 GB,512,1,4.5
+Lenovo Celeron N4500 64 GB 128 SSD 13.3 inch FHD Laptop 063,Lenovo,25170,Intel Celeron N4500,64 GB,128,2,4.2
+Lenovo Core i3 1215U 8 GB 128 SSD 16 inch OLED Laptop 064,Lenovo,83648,Intel Core i3 1215U,8 GB,128,1,3.3
+Lenovo Unspecified Compute Platform 8 GB 256 SSD 16 inch OLED Laptop 065,Lenovo,78755,Unspecified Compute Platform,8 GB,256,2,3.3
+Lenovo Ryzen 3 7320U 16 GB 2 SSD 14 inch WUXGA Laptop 066,Lenovo,27706,AMD Ryzen 3 7320U,16 GB,2,1,4.3
+Lenovo Athlon Silver 3050U 8 GB 2 SSD 16 inch OLED Laptop 067,Lenovo,72590,AMD Athlon Silver 3050U,8 GB,2,2,3.6
+Lenovo Core Ultra 7 16 GB 512 SSD 14 inch OLED Laptop 068,Lenovo,24543,Intel Core Ultra 7 155H,16 GB,512,2,4.5
+Lenovo Core 3 100U 4 GB 512 SSD 16 inch IPS QHD Laptop 069,Lenovo,98341,Intel Core 3 100U,4 GB,512,1,3.6
+Lenovo Athlon Silver 3050U 64 GB 512 SSD 14 inch WUXGA Laptop 070,Lenovo,26269,AMD Athlon Silver 3050U,64 GB,512,3,4.6
+Lenovo Unspecified Compute Platform 16 GB 512 SSD 13.3 inch FHD Laptop 071,Lenovo,27242,Unspecified Compute Platform,16 GB,512,3,4.2
+Lenovo Celeron N4500 16 GB 256 SSD 14 inch OLED Laptop 072,Lenovo,77404,Intel Celeron N4500,16 GB,256,4,3.5
+Lenovo Qualcomm Reference Chip 64 GB 1 SSD 15.6 inch IPS Laptop 073,Lenovo,54623,Qualcomm Reference Chip,64 GB,1,3,4.3
+Lenovo Unspecified Compute Platform 8 GB 512 SSD 16 inch OLED Laptop 074,Lenovo,76016,Unspecified Compute Platform,8 GB,512,4,4.0
+Lenovo Unspecified Compute Platform 16 GB 2 SSD 15.6 inch FHD Laptop 075,Lenovo,55020,Unspecified Compute Platform,16 GB,2,2,4.0
+Lenovo Core i3 1215U 8 GB 1 SSD 16 inch IPS QHD Laptop 076,Lenovo,105123,Intel Core i3 1215U,8 GB,1,3,3.8
+Lenovo Athlon Silver 3050U 16 GB 2 SSD 16 inch IPS QHD Laptop 077,Lenovo,84984,AMD Athlon Silver 3050U,16 GB,2,2,4.1
+Lenovo Ryzen 5 7530U 16 GB 128 SSD 16 inch IPS QHD Laptop 078,Lenovo,104546,AMD Ryzen 5 7530U,16 GB,128,3,4.0
+Lenovo Ryzen AI 9 32 GB 512 SSD 16 inch OLED Laptop 079,Lenovo,67546,AMD Ryzen AI 9 HX 370,32 GB,512,1,4.5
+Lenovo Unspecified Compute Platform 32 GB 1 SSD 15.6 inch FHD Laptop 080,Lenovo,52151,Unspecified Compute Platform,32 GB,1,1,4.3
+Lenovo Ryzen 3 7320U 8 GB 512 SSD 15.6 inch FHD Laptop 081,Lenovo,48740,AMD Ryzen 3 7320U,8 GB,512,1,3.7
+Lenovo Snapdragon X Plus 16 GB 512 SSD 15.6 inch FHD Laptop 082,Lenovo,45132,Snapdragon X Plus X1P-42-100,16 GB,512,2,4.4
+Lenovo Core 7 150U 8 GB 128 SSD 16 inch IPS QHD Laptop 083,Lenovo,121527,Intel Core 7 150U,8 GB,128,1,3.4
+Lenovo Core i3 1215U 8 GB 512 SSD 14 inch WUXGA Laptop 084,Lenovo,28317,Intel Core i3 1215U,8 GB,512,4,4.4
+Lenovo Ryzen 9 8945HS 16 GB 256 SSD 16 inch OLED Laptop 085,Lenovo,43988,AMD Ryzen 9 8945HS,16 GB,256,2,4.3
+Lenovo Core 7 150U 32 GB 128 SSD 16 inch OLED Laptop 086,Lenovo,125953,Intel Core 7 150U,32 GB,128,2,4.3
+Lenovo Ryzen 7 7840HS 16 GB 512 SSD 14 inch OLED Laptop 087,Lenovo,41734,AMD Ryzen 7 7840HS,16 GB,512,2,4.3
+Lenovo Core 5 120U 8 GB 2 SSD 16 inch WUXGA Laptop 088,Lenovo,58038,Intel Core 5 120U,8 GB,2,4,4.4
+Lenovo Athlon Silver 3050U 4 GB 512 SSD 16 inch IPS QHD Laptop 089,Lenovo,97282,AMD Athlon Silver 3050U,4 GB,512,4,3.7
+Lenovo Ryzen 5 7530U 4 GB 256 SSD 15.6 inch FHD Laptop 090,Lenovo,52624,AMD Ryzen 5 7530U,4 GB,256,2,4.0
+Lenovo Qualcomm Reference Chip 4 GB 256 SSD 14 inch OLED Laptop 091,Lenovo,111631,Qualcomm Reference Chip,4 GB,256,2,3.6
+Lenovo Athlon Silver 3050U 16 GB 128 SSD 15.6 inch FHD Laptop 092,Lenovo,42831,AMD Athlon Silver 3050U,16 GB,128,3,3.8
+Lenovo Core 5 120U 8 GB 1 SSD 16 inch OLED Laptop 093,Lenovo,80643,Intel Core 5 120U,8 GB,1,2,4.0
+Lenovo Ryzen 5 7530U 16 GB 2 SSD 13.3 inch FHD Laptop 094,Lenovo,27379,AMD Ryzen 5 7530U,16 GB,2,1,4.7
+Lenovo Core i9 13900H 24 GB 256 SSD 16 inch OLED Laptop 095,Lenovo,74817,Intel Core i9 13900H,24 GB,256,1,4.1
+Lenovo Core 3 100U 16 GB 512 SSD 13.3 inch FHD Laptop 096,Lenovo,26370,Intel Core 3 100U,16 GB,512,1,4.7
+Lenovo Pentium Silver N6000 16 GB 512 SSD 13.3 inch FHD Laptop 097,Lenovo,27176,Intel Pentium Silver N6000,16 GB,512,3,4.3
+Lenovo Core Ultra 5 64 GB 512 SSD 16 inch OLED Laptop 098,Lenovo,25016,Intel Core Ultra 5 125H,64 GB,512,2,4.4
+Lenovo Ryzen 7 7840HS 16 GB 2 SSD 14 inch OLED Laptop 099,Lenovo,124356,AMD Ryzen 7 7840HS,16 GB,2,1,3.8
+Lenovo Core 3 100U 64 GB 128 SSD 16 inch WUXGA Laptop 100,Lenovo,36127,Intel Core 3 100U,64 GB,128,2,4.4
+Lenovo Pentium Silver N6000 24 GB 128 SSD 13.3 inch FHD Laptop 101,Lenovo,26294,Intel Pentium Silver N6000,24 GB,128,1,3.9
+Lenovo Core i9 13900H 64 GB 512 SSD 16 inch IPS QHD Laptop 102,Lenovo,55219,Intel Core i9 13900H,64 GB,512,1,4.3
+Lenovo Ryzen 7 7840HS 4 GB 1 SSD 16 inch IPS QHD Laptop 103,Lenovo,101933,AMD Ryzen 7 7840HS,4 GB,1,1,4.3
+Lenovo Core i3 1215U 8 GB 2 SSD 16 inch WUXGA Laptop 104,Lenovo,35052,Intel Core i3 1215U,8 GB,2,1,4.0
+Lenovo Unspecified Compute Platform 24 GB 1 SSD 15.6 inch IPS Laptop 105,Lenovo,54975,Unspecified Compute Platform,24 GB,1,3,4.3
+Lenovo Core i3 1215U 4 GB 1 SSD 14 inch OLED Laptop 106,Lenovo,76637,Intel Core i3 1215U,4 GB,1,3,4.2
+Lenovo Qualcomm Reference Chip 32 GB 1 SSD 16 inch WUXGA Laptop 107,Lenovo,38745,Qualcomm Reference Chip,32 GB,1,2,4.3
+Lenovo Ryzen AI 9 8 GB 1 SSD 14 inch OLED Laptop 108,Lenovo,37139,AMD Ryzen AI 9 HX 370,8 GB,1,2,4.6
+Lenovo Core 9 185H 32 GB 1 SSD 14 inch OLED Laptop 109,Lenovo,98422,Intel Core 9 185H,32 GB,1,2,4.6
+Lenovo Unspecified Compute Platform 24 GB 512 SSD 16 inch WUXGA Laptop 110,Lenovo,42339,Unspecified Compute Platform,24 GB,512,4,4.1
+Lenovo Core 9 185H 8 GB 512 SSD 16 inch OLED Laptop 111,Lenovo,33653,Intel Core 9 185H,8 GB,512,2,4.2
+Lenovo Core Ultra 5 4 GB 128 SSD 16 inch IPS QHD Laptop 112,Lenovo,115369,Intel Core Ultra 5 125H,4 GB,128,3,4.1
+Lenovo Ryzen AI 9 16 GB 512 SSD 16 inch IPS QHD Laptop 113,Lenovo,29992,AMD Ryzen AI 9 HX 370,16 GB,512,2,4.8
+Lenovo Qualcomm Reference Chip 32 GB 512 SSD 15.6 inch IPS Laptop 114,Lenovo,56913,Qualcomm Reference Chip,32 GB,512,2,4.2
+Lenovo Core Ultra 5 8 GB 512 SSD 16 inch IPS QHD Laptop 115,Lenovo,54160,Intel Core Ultra 5 125H,8 GB,512,1,3.5
+Lenovo Pentium Silver N6000 4 GB 512 SSD 14 inch WUXGA Laptop 116,Lenovo,24486,Intel Pentium Silver N6000,4 GB,512,1,3.7
+Lenovo Ryzen 7 7840HS 4 GB 256 SSD 16 inch IPS QHD Laptop 117,Lenovo,26812,AMD Ryzen 7 7840HS,4 GB,256,1,4.0
+Lenovo Core 7 150U 32 GB 1 SSD 16 inch IPS QHD Laptop 118,Lenovo,47908,Intel Core 7 150U,32 GB,1,2,4.9
+Lenovo Ryzen 5 7530U 32 GB 256 SSD 16 inch OLED Laptop 119,Lenovo,144130,AMD Ryzen 5 7530U,32 GB,256,3,4.1
+Lenovo Ryzen 9 8945HS 16 GB 128 SSD 14 inch OLED Laptop 120,Lenovo,54204,AMD Ryzen 9 8945HS,16 GB,128,1,4.6
+Lenovo Core i5 1235U 16 GB 2 SSD 14 inch WUXGA Laptop 121,Lenovo,29968,Intel Core i5 1235U,16 GB,2,4,4.2
+Lenovo Ryzen AI 9 16 GB 512 SSD 14 inch OLED Laptop 122,Lenovo,135862,AMD Ryzen AI 9 HX 370,16 GB,512,3,4.3
+Lenovo Qualcomm Reference Chip 24 GB 1 SSD 16 inch WUXGA Laptop 123,Lenovo,39506,Qualcomm Reference Chip,24 GB,1,1,4.2
+Lenovo Ryzen 5 7530U 16 GB 512 SSD 15.6 inch IPS Laptop 124,Lenovo,49609,AMD Ryzen 5 7530U,16 GB,512,2,4.0
+Lenovo Ryzen 5 7530U 32 GB 128 SSD 16 inch OLED Laptop 125,Lenovo,108231,AMD Ryzen 5 7530U,32 GB,128,4,4.1
+Lenovo Qualcomm Reference Chip 24 GB 1 SSD 15.6 inch FHD Laptop 126,Lenovo,37465,Qualcomm Reference Chip,24 GB,1,1,4.3
+Lenovo Ryzen 5 7530U 4 GB 512 SSD 15.6 inch IPS Laptop 127,Lenovo,58580,AMD Ryzen 5 7530U,4 GB,512,2,4.2
+Lenovo Core Ultra 5 16 GB 128 SSD 14 inch OLED Laptop 128,Lenovo,29004,Intel Core Ultra 5 125H,16 GB,128,1,4.4
+Lenovo Qualcomm Reference Chip 8 GB 2 SSD 14 inch OLED Laptop 129,Lenovo,123409,Qualcomm Reference Chip,8 GB,2,2,3.5
+Lenovo Core 9 185H 24 GB 512 SSD 16 inch OLED Laptop 130,Lenovo,29874,Intel Core 9 185H,24 GB,512,3,4.7
+Lenovo MediaTek Kompanio 520 16 GB 256 SSD 14 inch WUXGA Laptop 131,Lenovo,24840,MediaTek Kompanio 520,16 GB,256,1,3.8
+Lenovo Core 3 100U 8 GB 512 SSD 16 inch WUXGA Laptop 132,Lenovo,54805,Intel Core 3 100U,8 GB,512,3,4.1
+Lenovo Core i7 13620H 64 GB 1 SSD 16 inch IPS QHD Laptop 133,Lenovo,142056,Intel Core i7 13620H,64 GB,1,4,4.3
+Lenovo Core 7 150U 24 GB 1 SSD 16 inch OLED Laptop 134,Lenovo,26595,Intel Core 7 150U,24 GB,1,1,4.5
+Lenovo Ryzen 5 7530U 4 GB 512 SSD 16 inch WUXGA Laptop 135,Lenovo,53722,AMD Ryzen 5 7530U,4 GB,512,4,4.1
+Lenovo Ryzen 9 8945HS 32 GB 128 SSD 16 inch OLED Laptop 136,Lenovo,29010,AMD Ryzen 9 8945HS,32 GB,128,4,4.9
+Lenovo Core i7 13620H 64 GB 512 SSD 14 inch OLED Laptop 137,Lenovo,27431,Intel Core i7 13620H,64 GB,512,1,4.6
+Lenovo Core 5 120U 16 GB 1 SSD 16 inch OLED Laptop 138,Lenovo,135286,Intel Core 5 120U,16 GB,1,1,4.2
+Lenovo Core i7 13620H 24 GB 512 SSD 14 inch OLED Laptop 139,Lenovo,57131,Intel Core i7 13620H,24 GB,512,2,4.6
+Lenovo Ryzen 3 7320U 16 GB 512 SSD 16 inch OLED Laptop 140,Lenovo,129225,AMD Ryzen 3 7320U,16 GB,512,4,4.6
+HP Core i7 13620H 4 GB 1 SSD 16 inch IPS QHD Laptop 001,HP,70541,Intel Core i7 13620H,4 GB,1,2,3.9
+HP Unspecified Compute Platform 32 GB 1 SSD 15.6 inch FHD Laptop 002,HP,45434,Unspecified Compute Platform,32 GB,1,1,4.1
+HP Core i3 1215U 16 GB 2 SSD 13.3 inch FHD Laptop 003,HP,26849,Intel Core i3 1215U,16 GB,2,1,4.3
+HP Core i7 13620H 24 GB 128 SSD 14 inch OLED Laptop 004,HP,122258,Intel Core i7 13620H,24 GB,128,1,4.1
+HP MediaTek Kompanio 520 8 GB 1 SSD 14 inch WUXGA Laptop 005,HP,27024,MediaTek Kompanio 520,8 GB,1,2,4.6
+HP Qualcomm Reference Chip 4 GB 2 SSD 14 inch FHD Laptop 006,HP,24050,Qualcomm Reference Chip,4 GB,2,4,4.3
+HP Ryzen 9 8945HS 8 GB 2 SSD 16 inch OLED Laptop 007,HP,59270,AMD Ryzen 9 8945HS,8 GB,2,1,4.3
+HP Pentium Silver N6000 8 GB 256 SSD 16 inch WUXGA Laptop 008,HP,56066,Intel Pentium Silver N6000,8 GB,256,2,3.8
+HP Celeron N4500 4 GB 1 SSD 14 inch OLED Laptop 009,HP,96322,Intel Celeron N4500,4 GB,1,4,3.7
+HP Snapdragon X Plus 4 GB 1 SSD 16 inch IPS QHD Laptop 010,HP,137686,Snapdragon X Plus X1P-42-100,4 GB,1,1,3.6
+HP Unspecified Compute Platform 16 GB 512 SSD 14 inch OLED Laptop 011,HP,77478,Unspecified Compute Platform,16 GB,512,1,3.0
+HP Ryzen 5 7530U 16 GB 1 SSD 15.6 inch FHD Laptop 012,HP,32869,AMD Ryzen 5 7530U,16 GB,1,3,4.5
+HP Core 7 150U 32 GB 128 SSD 16 inch OLED Laptop 013,HP,51040,Intel Core 7 150U,32 GB,128,3,4.2
+HP Core i5 1235U 16 GB 256 SSD 14 inch WUXGA Laptop 014,HP,26236,Intel Core i5 1235U,16 GB,256,1,4.2
+HP Core i5 1235U 16 GB 512 SSD 14 inch FHD Laptop 015,HP,26131,Intel Core i5 1235U,16 GB,512,1,4.2
+HP Core 5 120U 4 GB 1 SSD 14 inch WUXGA Laptop 016,HP,26761,Intel Core 5 120U,4 GB,1,3,4.2
+HP Ryzen 3 7320U 32 GB 1 SSD 16 inch OLED Laptop 017,HP,66623,AMD Ryzen 3 7320U,32 GB,1,1,3.9
+HP Ryzen 7 7840HS 24 GB 128 SSD 14 inch OLED Laptop 018,HP,57202,AMD Ryzen 7 7840HS,24 GB,128,2,4.2
+HP Core 3 100U 4 GB 256 SSD 15.6 inch FHD Laptop 019,HP,47807,Intel Core 3 100U,4 GB,256,3,3.8
+HP Core Ultra 9 16 GB 512 SSD 14 inch OLED Laptop 020,HP,58671,Intel Core Ultra 9 185H,16 GB,512,3,4.5
+HP Ryzen 7 7840HS 8 GB 512 SSD 16 inch IPS QHD Laptop 021,HP,72852,AMD Ryzen 7 7840HS,8 GB,512,3,4.0
+HP Unspecified Compute Platform 64 GB 512 SSD 14 inch WUXGA Laptop 022,HP,25357,Unspecified Compute Platform,64 GB,512,1,4.1
+HP Core 5 120U 24 GB 256 SSD 16 inch IPS QHD Laptop 023,HP,121228,Intel Core 5 120U,24 GB,256,4,3.9
+HP Ryzen 5 7530U 32 GB 1 SSD 16 inch IPS QHD Laptop 024,HP,75517,AMD Ryzen 5 7530U,32 GB,1,3,4.3
+HP Core 5 120U 16 GB 2 SSD 15.6 inch IPS Laptop 025,HP,53893,Intel Core 5 120U,16 GB,2,3,4.4
+HP Core Ultra 7 8 GB 1 SSD 14 inch OLED Laptop 026,HP,34056,Intel Core Ultra 7 155H,8 GB,1,4,4.6
+HP Ryzen 3 7320U 16 GB 1 SSD 14 inch OLED Laptop 027,HP,65283,AMD Ryzen 3 7320U,16 GB,1,4,4.1
+HP Core i5 1235U 16 GB 512 SSD 16 inch OLED Laptop 028,HP,81940,Intel Core i5 1235U,16 GB,512,3,3.9
+HP Core 7 150U 64 GB 512 SSD 14 inch OLED Laptop 029,HP,26113,Intel Core 7 150U,64 GB,512,3,4.5
+HP Qualcomm Reference Chip 4 GB 256 SSD 16 inch IPS QHD Laptop 030,HP,96711,Qualcomm Reference Chip,4 GB,256,3,3.5
+HP Ryzen 5 7530U 32 GB 512 SSD 16 inch IPS QHD Laptop 031,HP,89218,AMD Ryzen 5 7530U,32 GB,512,3,4.0
+HP Core i3 1215U 16 GB 256 SSD 13.3 inch FHD Laptop 032,HP,25355,Intel Core i3 1215U,16 GB,256,1,4.1
+HP Core i5 1235U 4 GB 256 SSD 16 inch IPS QHD Laptop 033,HP,144238,Intel Core i5 1235U,4 GB,256,3,3.7
+HP Ryzen AI 9 4 GB 256 SSD 16 inch OLED Laptop 034,HP,46891,AMD Ryzen AI 9 HX 370,4 GB,256,1,3.7
+HP Core Ultra 5 4 GB 512 SSD 14 inch OLED Laptop 035,HP,126237,Intel Core Ultra 5 125H,4 GB,512,1,3.8
+HP Core i9 13900H 8 GB 2 SSD 16 inch OLED Laptop 036,HP,45409,Intel Core i9 13900H,8 GB,2,1,4.2
+HP Core Ultra 5 4 GB 1 SSD 14 inch OLED Laptop 037,HP,28601,Intel Core Ultra 5 125H,4 GB,1,1,4.4
+HP Ryzen 9 8945HS 64 GB 512 SSD 16 inch OLED Laptop 038,HP,87602,AMD Ryzen 9 8945HS,64 GB,512,2,4.2
+HP Core i7 13620H 64 GB 512 SSD 16 inch IPS QHD Laptop 039,HP,24566,Intel Core i7 13620H,64 GB,512,2,4.6
+HP MediaTek Kompanio 520 8 GB 1 SSD 16 inch OLED Laptop 040,HP,65012,MediaTek Kompanio 520,8 GB,1,2,3.7
+HP Core i3 1215U 24 GB 2 SSD 15.6 inch FHD Laptop 041,HP,32957,Intel Core i3 1215U,24 GB,2,4,4.2
+HP Ryzen 5 7530U 64 GB 256 SSD 14 inch WUXGA Laptop 042,HP,27614,AMD Ryzen 5 7530U,64 GB,256,2,4.4
+HP Unspecified Compute Platform 64 GB 128 SSD 13.3 inch FHD Laptop 043,HP,28511,Unspecified Compute Platform,64 GB,128,2,4.0
+HP Core 7 150U 64 GB 1 SSD 16 inch OLED Laptop 044,HP,33188,Intel Core 7 150U,64 GB,1,4,4.4
+HP Core Ultra 7 4 GB 128 SSD 16 inch OLED Laptop 045,HP,26356,Intel Core Ultra 7 155H,4 GB,128,4,4.3
+HP Core Ultra 7 4 GB 2 SSD 14 inch OLED Laptop 046,HP,25622,Intel Core Ultra 7 155H,4 GB,2,1,4.5
+HP MediaTek Kompanio 520 64 GB 512 SSD 16 inch OLED Laptop 047,HP,97356,MediaTek Kompanio 520,64 GB,512,2,3.5
+HP Unspecified Compute Platform 4 GB 2 SSD 16 inch IPS QHD Laptop 048,HP,66312,Unspecified Compute Platform,4 GB,2,2,4.1
+HP Pentium Silver N6000 4 GB 128 SSD 14 inch FHD Laptop 049,HP,27016,Intel Pentium Silver N6000,4 GB,128,1,3.8
+HP Core i7 13620H 4 GB 2 SSD 16 inch IPS QHD Laptop 050,HP,49034,Intel Core i7 13620H,4 GB,2,4,4.2
+HP Ryzen 3 7320U 32 GB 512 SSD 14 inch FHD Laptop 051,HP,28943,AMD Ryzen 3 7320U,32 GB,512,4,4.5
+HP Core 3 100U 16 GB 256 SSD 16 inch OLED Laptop 052,HP,62629,Intel Core 3 100U,16 GB,256,2,3.9
+HP Snapdragon X Plus 4 GB 512 SSD 14 inch WUXGA Laptop 053,HP,27469,Snapdragon X Plus X1P-42-100,4 GB,512,2,4.0
+HP Unspecified Compute Platform 24 GB 128 SSD 14 inch WUXGA Laptop 054,HP,27158,Unspecified Compute Platform,24 GB,128,1,3.9
+HP Ryzen 7 7840HS 24 GB 512 SSD 14 inch OLED Laptop 055,HP,28909,AMD Ryzen 7 7840HS,24 GB,512,2,4.9
+HP Core i5 1235U 16 GB 512 SSD 16 inch IPS QHD Laptop 056,HP,88272,Intel Core i5 1235U,16 GB,512,2,4.1
+HP Pentium Silver N6000 4 GB 256 SSD 16 inch OLED Laptop 057,HP,71560,Intel Pentium Silver N6000,4 GB,256,3,3.2
+HP Ryzen 3 7320U 4 GB 512 SSD 16 inch WUXGA Laptop 058,HP,39286,AMD Ryzen 3 7320U,4 GB,512,2,4.0
+HP Qualcomm Reference Chip 4 GB 256 SSD 15.6 inch FHD Laptop 059,HP,54845,Qualcomm Reference Chip,4 GB,256,1,3.7
+HP Celeron N4500 16 GB 512 SSD 15.6 inch FHD Laptop 060,HP,46247,Intel Celeron N4500,16 GB,512,4,4.1
+HP Core 7 150U 16 GB 128 SSD 14 inch OLED Laptop 061,HP,50561,Intel Core 7 150U,16 GB,128,2,4.2
+HP Pentium Silver N6000 4 GB 1 SSD 16 inch OLED Laptop 062,HP,83682,Intel Pentium Silver N6000,4 GB,1,4,3.6
+HP Qualcomm Reference Chip 4 GB 512 SSD 15.6 inch FHD Laptop 063,HP,41051,Qualcomm Reference Chip,4 GB,512,1,4.1
+HP Core i9 13900H 16 GB 2 SSD 16 inch IPS QHD Laptop 064,HP,52105,Intel Core i9 13900H,16 GB,2,2,4.5
+HP Core 3 100U 32 GB 512 SSD 16 inch IPS QHD Laptop 065,HP,74972,Intel Core 3 100U,32 GB,512,4,3.8
+HP Core i5 1235U 16 GB 256 SSD 14 inch WUXGA Laptop 066,HP,28583,Intel Core i5 1235U,16 GB,256,2,4.2
+HP Core 7 150U 24 GB 256 SSD 14 inch OLED Laptop 067,HP,26894,Intel Core 7 150U,24 GB,256,2,4.0
+HP MediaTek Kompanio 520 16 GB 256 SSD 14 inch WUXGA Laptop 068,HP,24526,MediaTek Kompanio 520,16 GB,256,4,3.8
+HP Celeron N4500 16 GB 2 SSD 16 inch OLED Laptop 069,HP,116349,Intel Celeron N4500,16 GB,2,1,3.4
+HP Ryzen 5 7530U 32 GB 1 SSD 13.3 inch FHD Laptop 070,HP,26130,AMD Ryzen 5 7530U,32 GB,1,1,4.6
+HP Ryzen 5 7530U 32 GB 512 SSD 16 inch WUXGA Laptop 071,HP,43652,AMD Ryzen 5 7530U,32 GB,512,2,4.6
+HP Qualcomm Reference Chip 16 GB 1 SSD 14 inch FHD Laptop 072,HP,29390,Qualcomm Reference Chip,16 GB,1,2,4.4
+HP Unspecified Compute Platform 4 GB 1 SSD 14 inch WUXGA Laptop 073,HP,27674,Unspecified Compute Platform,4 GB,1,2,4.3
+HP Qualcomm Reference Chip 16 GB 256 SSD 15.6 inch FHD Laptop 074,HP,35261,Qualcomm Reference Chip,16 GB,256,4,3.7
+HP Core i9 13900H 16 GB 1 SSD 16 inch IPS QHD Laptop 075,HP,50352,Intel Core i9 13900H,16 GB,1,2,4.7
+HP Pentium Silver N6000 16 GB 512 SSD 14 inch OLED Laptop 076,HP,128326,Intel Pentium Silver N6000,16 GB,512,1,3.5
+HP Ryzen 5 7530U 8 GB 512 SSD 14 inch WUXGA Laptop 077,HP,26413,AMD Ryzen 5 7530U,8 GB,512,2,4.7
+HP MediaTek Kompanio 520 4 GB 128 SSD 16 inch WUXGA Laptop 078,HP,40964,MediaTek Kompanio 520,4 GB,128,1,3.7
+HP Snapdragon X Plus 32 GB 256 SSD 14 inch FHD Laptop 079,HP,26804,Snapdragon X Plus X1P-42-100,32 GB,256,3,4.2
+HP Ryzen AI 9 16 GB 128 SSD 16 inch IPS QHD Laptop 080,HP,26213,AMD Ryzen AI 9 HX 370,16 GB,128,4,4.5
+HP Pentium Silver N6000 32 GB 128 SSD 15.6 inch FHD Laptop 081,HP,37514,Intel Pentium Silver N6000,32 GB,128,1,3.3
+HP Athlon Silver 3050U 24 GB 512 SSD 14 inch OLED Laptop 082,HP,114037,AMD Athlon Silver 3050U,24 GB,512,2,4.0
+HP Pentium Silver N6000 4 GB 1 SSD 16 inch IPS QHD Laptop 083,HP,119501,Intel Pentium Silver N6000,4 GB,1,2,4.1
+HP Ryzen 7 7840HS 8 GB 512 SSD 16 inch OLED Laptop 084,HP,32471,AMD Ryzen 7 7840HS,8 GB,512,3,4.3
+HP Core i5 1235U 32 GB 512 SSD 13.3 inch FHD Laptop 085,HP,29797,Intel Core i5 1235U,32 GB,512,3,4.7
+HP Core 5 120U 16 GB 1 SSD 14 inch WUXGA Laptop 086,HP,29471,Intel Core 5 120U,16 GB,1,2,4.4
+HP Ryzen 9 8945HS 16 GB 512 SSD 16 inch IPS QHD Laptop 087,HP,66873,AMD Ryzen 9 8945HS,16 GB,512,2,4.3
+HP Unspecified Compute Platform 16 GB 1 SSD 16 inch WUXGA Laptop 088,HP,51552,Unspecified Compute Platform,16 GB,1,2,4.1
+HP Core Ultra 9 16 GB 2 SSD 16 inch OLED Laptop 089,HP,100045,Intel Core Ultra 9 185H,16 GB,2,1,4.4
+HP Core i3 1215U 24 GB 512 SSD 16 inch IPS QHD Laptop 090,HP,108647,Intel Core i3 1215U,24 GB,512,2,3.7
+HP Core i9 13900H 16 GB 1 SSD 16 inch OLED Laptop 091,HP,28509,Intel Core i9 13900H,16 GB,1,1,4.5
+HP Celeron N4500 32 GB 1 SSD 16 inch WUXGA Laptop 092,HP,55354,Intel Celeron N4500,32 GB,1,1,3.9
+HP MediaTek Kompanio 520 32 GB 256 SSD 16 inch OLED Laptop 093,HP,112833,MediaTek Kompanio 520,32 GB,256,1,3.6
+HP Core 7 150U 64 GB 256 SSD 16 inch OLED Laptop 094,HP,27148,Intel Core 7 150U,64 GB,256,1,3.7
+HP Core Ultra 5 24 GB 512 SSD 14 inch OLED Laptop 095,HP,34773,Intel Core Ultra 5 125H,24 GB,512,2,4.8
+HP Core 5 120U 8 GB 128 SSD 14 inch OLED Laptop 096,HP,133409,Intel Core 5 120U,8 GB,128,1,3.9
+HP Ryzen 9 8945HS 8 GB 512 SSD 16 inch IPS QHD Laptop 097,HP,96878,AMD Ryzen 9 8945HS,8 GB,512,2,4.0
+HP Core i9 13900H 16 GB 128 SSD 16 inch OLED Laptop 098,HP,41492,Intel Core i9 13900H,16 GB,128,4,4.0
+HP Ryzen 3 7320U 16 GB 128 SSD 14 inch OLED Laptop 099,HP,119409,AMD Ryzen 3 7320U,16 GB,128,1,3.9
+HP Core i7 13620H 16 GB 512 SSD 16 inch IPS QHD Laptop 100,HP,135707,Intel Core i7 13620H,16 GB,512,1,3.9
+HP Ryzen 3 7320U 64 GB 512 SSD 13.3 inch FHD Laptop 101,HP,25198,AMD Ryzen 3 7320U,64 GB,512,2,4.3
+HP Pentium Silver N6000 24 GB 1 SSD 16 inch WUXGA Laptop 102,HP,36618,Intel Pentium Silver N6000,24 GB,1,1,4.0
+HP Unspecified Compute Platform 8 GB 256 SSD 13.3 inch FHD Laptop 103,HP,25845,Unspecified Compute Platform,8 GB,256,1,3.7
+HP Unspecified Compute Platform 16 GB 1 SSD 16 inch OLED Laptop 104,HP,65280,Unspecified Compute Platform,16 GB,1,3,4.3
+HP Athlon Silver 3050U 32 GB 128 SSD 16 inch WUXGA Laptop 105,HP,32136,AMD Athlon Silver 3050U,32 GB,128,4,3.9
+HP Ryzen 3 7320U 16 GB 256 SSD 16 inch WUXGA Laptop 106,HP,40767,AMD Ryzen 3 7320U,16 GB,256,1,3.7
+HP Snapdragon X Plus 16 GB 512 SSD 14 inch OLED Laptop 107,HP,101146,Snapdragon X Plus X1P-42-100,16 GB,512,3,4.0
+HP Core 7 150U 64 GB 128 SSD 14 inch OLED Laptop 108,HP,25947,Intel Core 7 150U,64 GB,128,1,4.3
+HP Ryzen 9 8945HS 16 GB 2 SSD 16 inch IPS QHD Laptop 109,HP,97785,AMD Ryzen 9 8945HS,16 GB,2,3,4.2
+HP Core Ultra 9 8 GB 512 SSD 16 inch OLED Laptop 110,HP,27706,Intel Core Ultra 9 185H,8 GB,512,1,4.4
+HP Core Ultra 5 8 GB 512 SSD 14 inch OLED Laptop 111,HP,26353,Intel Core Ultra 5 125H,8 GB,512,2,4.1
+HP Pentium Silver N6000 24 GB 128 SSD 16 inch WUXGA Laptop 112,HP,41859,Intel Pentium Silver N6000,24 GB,128,3,4.1
+HP Core 9 185H 16 GB 128 SSD 14 inch OLED Laptop 113,HP,70399,Intel Core 9 185H,16 GB,128,1,3.7
+HP Snapdragon X Plus 16 GB 256 SSD 15.6 inch IPS Laptop 114,HP,49232,Snapdragon X Plus X1P-42-100,16 GB,256,1,3.7
+HP Snapdragon X Plus 16 GB 256 SSD 13.3 inch FHD Laptop 115,HP,29717,Snapdragon X Plus X1P-42-100,16 GB,256,1,4.0
+HP Core i9 13900H 24 GB 512 SSD 16 inch IPS QHD Laptop 116,HP,28475,Intel Core i9 13900H,24 GB,512,3,4.4
+HP Core 3 100U 4 GB 128 SSD 16 inch WUXGA Laptop 117,HP,41279,Intel Core 3 100U,4 GB,128,2,3.5
+HP Core i7 13620H 16 GB 1 SSD 14 inch OLED Laptop 118,HP,35727,Intel Core i7 13620H,16 GB,1,2,4.3
+HP Core Ultra 9 16 GB 512 SSD 16 inch IPS QHD Laptop 119,HP,103334,Intel Core Ultra 9 185H,16 GB,512,2,4.2
+HP Ryzen 5 7530U 32 GB 512 SSD 15.6 inch FHD Laptop 120,HP,42548,AMD Ryzen 5 7530U,32 GB,512,2,4.4
+HP Qualcomm Reference Chip 64 GB 512 SSD 15.6 inch FHD Laptop 121,HP,35880,Qualcomm Reference Chip,64 GB,512,2,4.2
+HP Unspecified Compute Platform 4 GB 512 SSD 13.3 inch FHD Laptop 122,HP,28138,Unspecified Compute Platform,4 GB,512,3,4.4
+HP Ryzen 5 7530U 16 GB 512 SSD 16 inch WUXGA Laptop 123,HP,42348,AMD Ryzen 5 7530U,16 GB,512,1,4.1
+HP Unspecified Compute Platform 8 GB 512 SSD 14 inch FHD Laptop 124,HP,24414,Unspecified Compute Platform,8 GB,512,2,4.1
+HP Qualcomm Reference Chip 16 GB 1 SSD 16 inch WUXGA Laptop 125,HP,33935,Qualcomm Reference Chip,16 GB,1,2,4.0
+DELL Core 5 120U 16 GB 512 SSD 14 inch FHD Laptop 001,DELL,27916,Intel Core 5 120U,16 GB,512,1,4.3
+DELL Ryzen 9 8945HS 64 GB 512 SSD 16 inch IPS QHD Laptop 002,DELL,34814,AMD Ryzen 9 8945HS,64 GB,512,4,4.9
+DELL Core i5 1235U 16 GB 128 SSD 13.3 inch FHD Laptop 003,DELL,27547,Intel Core i5 1235U,16 GB,128,4,4.3
+DELL Core 5 120U 16 GB 512 SSD 15.6 inch IPS Laptop 004,DELL,34482,Intel Core 5 120U,16 GB,512,4,4.5
+DELL Core i3 1215U 8 GB 256 SSD 16 inch WUXGA Laptop 005,DELL,39959,Intel Core i3 1215U,8 GB,256,1,4.1
+DELL Qualcomm Reference Chip 16 GB 512 SSD 15.6 inch FHD Laptop 006,DELL,54386,Qualcomm Reference Chip,16 GB,512,1,3.5
+DELL Core i5 1235U 16 GB 512 SSD 16 inch OLED Laptop 007,DELL,74797,Intel Core i5 1235U,16 GB,512,2,3.9
+DELL Qualcomm Reference Chip 16 GB 128 SSD 14 inch WUXGA Laptop 008,DELL,27613,Qualcomm Reference Chip,16 GB,128,2,4.1
+DELL Core 7 150U 16 GB 2 SSD 16 inch IPS QHD Laptop 009,DELL,108042,Intel Core 7 150U,16 GB,2,1,4.7
+DELL Core Ultra 9 24 GB 128 SSD 16 inch IPS QHD Laptop 010,DELL,24811,Intel Core Ultra 9 185H,24 GB,128,1,4.2
+DELL Qualcomm Reference Chip 24 GB 512 SSD 16 inch WUXGA Laptop 011,DELL,34893,Qualcomm Reference Chip,24 GB,512,3,4.2
+DELL Unspecified Compute Platform 24 GB 128 SSD 15.6 inch FHD Laptop 012,DELL,38065,Unspecified Compute Platform,24 GB,128,1,4.0
+DELL Snapdragon X Plus 16 GB 256 SSD 13.3 inch FHD Laptop 013,DELL,28121,Snapdragon X Plus X1P-42-100,16 GB,256,1,4.2
+DELL Ryzen 3 7320U 32 GB 2 SSD 14 inch WUXGA Laptop 014,DELL,26723,AMD Ryzen 3 7320U,32 GB,2,2,4.2
+DELL Qualcomm Reference Chip 16 GB 2 SSD 16 inch WUXGA Laptop 015,DELL,51868,Qualcomm Reference Chip,16 GB,2,1,3.9
+DELL Core i9 13900H 16 GB 128 SSD 16 inch OLED Laptop 016,DELL,80585,Intel Core i9 13900H,16 GB,128,2,4.1
+DELL Core Ultra 5 8 GB 2 SSD 14 inch OLED Laptop 017,DELL,27477,Intel Core Ultra 5 125H,8 GB,2,2,4.3
+DELL Core 5 120U 8 GB 2 SSD 16 inch IPS QHD Laptop 018,DELL,106320,Intel Core 5 120U,8 GB,2,4,3.9
+DELL Snapdragon X Plus 64 GB 1 SSD 16 inch OLED Laptop 019,DELL,62798,Snapdragon X Plus X1P-42-100,64 GB,1,1,4.5
+DELL Pentium Silver N6000 8 GB 128 SSD 15.6 inch IPS Laptop 020,DELL,48684,Intel Pentium Silver N6000,8 GB,128,1,3.5
+DELL Core 5 120U 24 GB 512 SSD 13.3 inch FHD Laptop 021,DELL,25468,Intel Core 5 120U,24 GB,512,1,4.5
+DELL Ryzen 7 7840HS 4 GB 512 SSD 16 inch IPS QHD Laptop 022,DELL,122676,AMD Ryzen 7 7840HS,4 GB,512,2,3.9
+DELL Ryzen 5 7530U 4 GB 512 SSD 14 inch WUXGA Laptop 023,DELL,24994,AMD Ryzen 5 7530U,4 GB,512,2,4.4
+DELL Core i9 13900H 16 GB 1 SSD 14 inch OLED Laptop 024,DELL,134479,Intel Core i9 13900H,16 GB,1,2,4.3
+DELL Core i3 1215U 8 GB 1 SSD 14 inch OLED Laptop 025,DELL,98863,Intel Core i3 1215U,8 GB,1,3,4.1
+DELL Core 5 120U 8 GB 2 SSD 14 inch OLED Laptop 026,DELL,125626,Intel Core 5 120U,8 GB,2,4,4.8
+DELL Core 3 100U 4 GB 1 SSD 16 inch WUXGA Laptop 027,DELL,53085,Intel Core 3 100U,4 GB,1,2,4.0
+DELL Core 9 185H 8 GB 512 SSD 16 inch OLED Laptop 028,DELL,112603,Intel Core 9 185H,8 GB,512,2,4.5
+DELL Core i5 1235U 64 GB 256 SSD 16 inch OLED Laptop 029,DELL,143403,Intel Core i5 1235U,64 GB,256,4,3.8
+DELL Athlon Silver 3050U 24 GB 512 SSD 15.6 inch IPS Laptop 030,DELL,38864,AMD Athlon Silver 3050U,24 GB,512,1,4.4
+DELL Core 9 185H 64 GB 512 SSD 16 inch OLED Laptop 031,DELL,46617,Intel Core 9 185H,64 GB,512,4,4.7
+DELL Core i9 13900H 24 GB 2 SSD 16 inch IPS QHD Laptop 032,DELL,107370,Intel Core i9 13900H,24 GB,2,1,4.5
+DELL Core Ultra 7 24 GB 2 SSD 16 inch OLED Laptop 033,DELL,51147,Intel Core Ultra 7 155H,24 GB,2,3,4.9
+DELL Ryzen 7 7840HS 8 GB 256 SSD 16 inch IPS QHD Laptop 034,DELL,84449,AMD Ryzen 7 7840HS,8 GB,256,1,3.9
+DELL Ryzen 3 7320U 32 GB 2 SSD 13.3 inch FHD Laptop 035,DELL,25140,AMD Ryzen 3 7320U,32 GB,2,1,4.4
+DELL Snapdragon X Plus 32 GB 128 SSD 16 inch IPS QHD Laptop 036,DELL,98374,Snapdragon X Plus X1P-42-100,32 GB,128,2,3.6
+DELL MediaTek Kompanio 520 16 GB 1 SSD 16 inch OLED Laptop 037,DELL,79382,MediaTek Kompanio 520,16 GB,1,3,3.6
+DELL Unspecified Compute Platform 8 GB 1 SSD 14 inch FHD Laptop 038,DELL,24385,Unspecified Compute Platform,8 GB,1,3,4.5
+DELL Ryzen 9 8945HS 64 GB 512 SSD 16 inch IPS QHD Laptop 039,DELL,49443,AMD Ryzen 9 8945HS,64 GB,512,3,4.4
+DELL Qualcomm Reference Chip 32 GB 512 SSD 14 inch OLED Laptop 040,DELL,129649,Qualcomm Reference Chip,32 GB,512,2,3.7
+DELL Qualcomm Reference Chip 24 GB 512 SSD 14 inch FHD Laptop 041,DELL,28548,Qualcomm Reference Chip,24 GB,512,2,4.2
+DELL Core 7 150U 8 GB 512 SSD 16 inch IPS QHD Laptop 042,DELL,116852,Intel Core 7 150U,8 GB,512,2,3.8
+DELL Core Ultra 5 4 GB 128 SSD 16 inch OLED Laptop 043,DELL,32185,Intel Core Ultra 5 125H,4 GB,128,1,3.8
+DELL Core 3 100U 16 GB 256 SSD 16 inch IPS QHD Laptop 044,DELL,118780,Intel Core 3 100U,16 GB,256,1,3.6
+DELL Ryzen 3 7320U 16 GB 1 SSD 15.6 inch FHD Laptop 045,DELL,46658,AMD Ryzen 3 7320U,16 GB,1,1,4.0
+DELL Core i7 13620H 32 GB 1 SSD 16 inch OLED Laptop 046,DELL,72280,Intel Core i7 13620H,32 GB,1,4,4.8
+DELL Core Ultra 7 8 GB 2 SSD 14 inch OLED Laptop 047,DELL,58059,Intel Core Ultra 7 155H,8 GB,2,2,4.6
+DELL Core 9 185H 4 GB 256 SSD 16 inch IPS QHD Laptop 048,DELL,29343,Intel Core 9 185H,4 GB,256,3,4.6
+DELL Celeron N4500 4 GB 128 SSD 14 inch OLED Laptop 049,DELL,138541,Intel Celeron N4500,4 GB,128,3,3.4
+DELL Unspecified Compute Platform 16 GB 128 SSD 15.6 inch FHD Laptop 050,DELL,39687,Unspecified Compute Platform,16 GB,128,1,3.7
+DELL Celeron N4500 4 GB 512 SSD 13.3 inch FHD Laptop 051,DELL,27174,Intel Celeron N4500,4 GB,512,2,3.9
+DELL Athlon Silver 3050U 16 GB 128 SSD 15.6 inch FHD Laptop 052,DELL,36532,AMD Athlon Silver 3050U,16 GB,128,1,3.3
+DELL Core i5 1235U 24 GB 512 SSD 15.6 inch FHD Laptop 053,DELL,47390,Intel Core i5 1235U,24 GB,512,2,4.1
+DELL Core i5 1235U 24 GB 512 SSD 14 inch FHD Laptop 054,DELL,27290,Intel Core i5 1235U,24 GB,512,2,4.4
+DELL Pentium Silver N6000 24 GB 128 SSD 15.6 inch FHD Laptop 055,DELL,45791,Intel Pentium Silver N6000,24 GB,128,4,4.1
+DELL Qualcomm Reference Chip 4 GB 512 SSD 16 inch WUXGA Laptop 056,DELL,35552,Qualcomm Reference Chip,4 GB,512,3,4.0
+DELL Core i7 13620H 16 GB 512 SSD 16 inch OLED Laptop 057,DELL,29887,Intel Core i7 13620H,16 GB,512,2,4.5
+DELL Athlon Silver 3050U 32 GB 512 SSD 14 inch FHD Laptop 058,DELL,27661,AMD Athlon Silver 3050U,32 GB,512,2,4.4
+DELL Athlon Silver 3050U 16 GB 512 SSD 16 inch OLED Laptop 059,DELL,122850,AMD Athlon Silver 3050U,16 GB,512,1,3.4
+DELL Core i5 1235U 4 GB 512 SSD 14 inch WUXGA Laptop 060,DELL,26421,Intel Core i5 1235U,4 GB,512,3,4.2
+DELL MediaTek Kompanio 520 8 GB 512 SSD 16 inch IPS QHD Laptop 061,DELL,96867,MediaTek Kompanio 520,8 GB,512,2,3.6
+DELL Core i5 1235U 4 GB 1 SSD 14 inch WUXGA Laptop 062,DELL,25843,Intel Core i5 1235U,4 GB,1,3,4.7
+DELL Core 7 150U 8 GB 1 SSD 16 inch IPS QHD Laptop 063,DELL,50672,Intel Core 7 150U,8 GB,1,2,4.4
+DELL Ryzen 3 7320U 16 GB 128 SSD 16 inch WUXGA Laptop 064,DELL,48602,AMD Ryzen 3 7320U,16 GB,128,1,3.7
+DELL Qualcomm Reference Chip 4 GB 2 SSD 16 inch IPS QHD Laptop 065,DELL,109128,Qualcomm Reference Chip,4 GB,2,4,3.9
+DELL Ryzen 5 7530U 64 GB 1 SSD 14 inch FHD Laptop 066,DELL,27200,AMD Ryzen 5 7530U,64 GB,1,1,4.9
+DELL Core i3 1215U 16 GB 2 SSD 13.3 inch FHD Laptop 067,DELL,26737,Intel Core i3 1215U,16 GB,2,2,4.1
+DELL Pentium Silver N6000 24 GB 256 SSD 13.3 inch FHD Laptop 068,DELL,25531,Intel Pentium Silver N6000,24 GB,256,4,4.2
+DELL Ryzen AI 9 24 GB 512 SSD 14 inch OLED Laptop 069,DELL,28253,AMD Ryzen AI 9 HX 370,24 GB,512,4,4.5
+DELL MediaTek Kompanio 520 8 GB 128 SSD 14 inch WUXGA Laptop 070,DELL,24966,MediaTek Kompanio 520,8 GB,128,3,3.7
+DELL Unspecified Compute Platform 8 GB 128 SSD 13.3 inch FHD Laptop 071,DELL,27538,Unspecified Compute Platform,8 GB,128,3,3.9
+DELL Ryzen 5 7530U 16 GB 512 SSD 16 inch IPS QHD Laptop 072,DELL,110816,AMD Ryzen 5 7530U,16 GB,512,1,3.9
+DELL Qualcomm Reference Chip 16 GB 128 SSD 15.6 inch IPS Laptop 073,DELL,51523,Qualcomm Reference Chip,16 GB,128,2,3.9
+DELL Core 5 120U 32 GB 2 SSD 14 inch OLED Laptop 074,DELL,137798,Intel Core 5 120U,32 GB,2,1,4.2
+DELL Core Ultra 9 64 GB 512 SSD 16 inch OLED Laptop 075,DELL,57891,Intel Core Ultra 9 185H,64 GB,512,4,4.3
+DELL Ryzen 9 8945HS 32 GB 512 SSD 16 inch OLED Laptop 076,DELL,25929,AMD Ryzen 9 8945HS,32 GB,512,2,4.8
+DELL Ryzen 3 7320U 24 GB 2 SSD 13.3 inch FHD Laptop 077,DELL,27939,AMD Ryzen 3 7320U,24 GB,2,3,4.9
+DELL Core i7 13620H 64 GB 256 SSD 14 inch OLED Laptop 078,DELL,72860,Intel Core i7 13620H,64 GB,256,1,3.8
+DELL MediaTek Kompanio 520 8 GB 1 SSD 14 inch FHD Laptop 079,DELL,25701,MediaTek Kompanio 520,8 GB,1,2,3.9
+DELL Ryzen 3 7320U 16 GB 1 SSD 14 inch OLED Laptop 080,DELL,88925,AMD Ryzen 3 7320U,16 GB,1,2,3.6
+DELL Unspecified Compute Platform 16 GB 2 SSD 14 inch OLED Laptop 081,DELL,141489,Unspecified Compute Platform,16 GB,2,1,3.5
+DELL Unspecified Compute Platform 16 GB 2 SSD 16 inch WUXGA Laptop 082,DELL,36300,Unspecified Compute Platform,16 GB,2,1,4.0
+DELL Celeron N4500 16 GB 2 SSD 14 inch OLED Laptop 083,DELL,74279,Intel Celeron N4500,16 GB,2,2,3.7
+DELL Core 7 150U 16 GB 256 SSD 16 inch OLED Laptop 084,DELL,104984,Intel Core 7 150U,16 GB,256,2,3.8
+DELL Core 9 185H 4 GB 2 SSD 14 inch OLED Laptop 085,DELL,46683,Intel Core 9 185H,4 GB,2,3,4.8
+DELL Qualcomm Reference Chip 4 GB 2 SSD 16 inch OLED Laptop 086,DELL,74158,Qualcomm Reference Chip,4 GB,2,2,3.4
+DELL Unspecified Compute Platform 32 GB 2 SSD 14 inch WUXGA Laptop 087,DELL,24604,Unspecified Compute Platform,32 GB,2,2,4.6
+DELL Athlon Silver 3050U 8 GB 128 SSD 14 inch OLED Laptop 088,DELL,138937,AMD Athlon Silver 3050U,8 GB,128,1,3.3
+DELL Ryzen 3 7320U 32 GB 128 SSD 16 inch WUXGA Laptop 089,DELL,39937,AMD Ryzen 3 7320U,32 GB,128,3,4.1
+DELL Unspecified Compute Platform 8 GB 512 SSD 14 inch OLED Laptop 090,DELL,83191,Unspecified Compute Platform,8 GB,512,2,3.2
+DELL Core 7 150U 4 GB 512 SSD 16 inch IPS QHD Laptop 091,DELL,39101,Intel Core 7 150U,4 GB,512,1,4.0
+DELL Core i7 13620H 16 GB 128 SSD 16 inch OLED Laptop 092,DELL,29609,Intel Core i7 13620H,16 GB,128,2,4.4
+DELL Athlon Silver 3050U 16 GB 512 SSD 14 inch FHD Laptop 093,DELL,28917,AMD Athlon Silver 3050U,16 GB,512,1,3.6
+DELL Core 9 185H 32 GB 256 SSD 16 inch OLED Laptop 094,DELL,38102,Intel Core 9 185H,32 GB,256,1,4.3
+DELL Athlon Silver 3050U 16 GB 256 SSD 16 inch OLED Laptop 095,DELL,76474,AMD Athlon Silver 3050U,16 GB,256,1,3.3
+DELL Core Ultra 9 8 GB 128 SSD 16 inch OLED Laptop 096,DELL,70259,Intel Core Ultra 9 185H,8 GB,128,1,3.2
+DELL Ryzen 5 7530U 8 GB 128 SSD 15.6 inch FHD Laptop 097,DELL,52873,AMD Ryzen 5 7530U,8 GB,128,2,3.6
+DELL Qualcomm Reference Chip 16 GB 512 SSD 15.6 inch IPS Laptop 098,DELL,33699,Qualcomm Reference Chip,16 GB,512,2,4.1
+DELL Ryzen AI 9 16 GB 512 SSD 16 inch IPS QHD Laptop 099,DELL,58084,AMD Ryzen AI 9 HX 370,16 GB,512,3,4.5
+DELL Core 9 185H 32 GB 2 SSD 16 inch OLED Laptop 100,DELL,57985,Intel Core 9 185H,32 GB,2,2,4.9
+DELL Core Ultra 5 16 GB 512 SSD 14 inch OLED Laptop 101,DELL,87692,Intel Core Ultra 5 125H,16 GB,512,2,4.4
+DELL Core Ultra 5 16 GB 256 SSD 16 inch OLED Laptop 102,DELL,27378,Intel Core Ultra 5 125H,16 GB,256,3,4.1
+DELL Core 3 100U 8 GB 2 SSD 15.6 inch FHD Laptop 103,DELL,37882,Intel Core 3 100U,8 GB,2,1,3.6
+DELL MediaTek Kompanio 520 16 GB 256 SSD 16 inch WUXGA Laptop 104,DELL,34746,MediaTek Kompanio 520,16 GB,256,4,4.0
+DELL Core Ultra 5 16 GB 256 SSD 16 inch IPS QHD Laptop 105,DELL,26804,Intel Core Ultra 5 125H,16 GB,256,3,4.5
+DELL Pentium Silver N6000 64 GB 512 SSD 13.3 inch FHD Laptop 106,DELL,24506,Intel Pentium Silver N6000,64 GB,512,3,4.5
+DELL Core Ultra 5 32 GB 2 SSD 16 inch IPS QHD Laptop 107,DELL,35101,Intel Core Ultra 5 125H,32 GB,2,3,4.8
+DELL Core i3 1215U 16 GB 2 SSD 16 inch OLED Laptop 108,DELL,83422,Intel Core i3 1215U,16 GB,2,1,3.9
+DELL Core 3 100U 24 GB 256 SSD 16 inch IPS QHD Laptop 109,DELL,125252,Intel Core 3 100U,24 GB,256,1,3.5
+DELL Pentium Silver N6000 64 GB 2 SSD 15.6 inch FHD Laptop 110,DELL,56536,Intel Pentium Silver N6000,64 GB,2,1,4.2
+DELL Ryzen 7 7840HS 8 GB 512 SSD 16 inch OLED Laptop 111,DELL,25492,AMD Ryzen 7 7840HS,8 GB,512,2,4.7
+DELL Core i5 1235U 16 GB 512 SSD 15.6 inch IPS Laptop 112,DELL,41132,Intel Core i5 1235U,16 GB,512,3,4.1
+DELL Core i3 1215U 4 GB 128 SSD 16 inch IPS QHD Laptop 113,DELL,123614,Intel Core i3 1215U,4 GB,128,4,4.0
+DELL Core 5 120U 24 GB 512 SSD 14 inch FHD Laptop 114,DELL,25050,Intel Core 5 120U,24 GB,512,1,4.3
+DELL Core 7 150U 4 GB 128 SSD 16 inch IPS QHD Laptop 115,DELL,25601,Intel Core 7 150U,4 GB,128,4,4.3
+DELL Unspecified Compute Platform 4 GB 256 SSD 15.6 inch IPS Laptop 116,DELL,42583,Unspecified Compute Platform,4 GB,256,2,3.6
+DELL Core 5 120U 16 GB 2 SSD 16 inch IPS QHD Laptop 117,DELL,67350,Intel Core 5 120U,16 GB,2,3,4.0
+DELL Core 3 100U 4 GB 512 SSD 13.3 inch FHD Laptop 118,DELL,24899,Intel Core 3 100U,4 GB,512,4,4.5
+DELL Core i9 13900H 64 GB 256 SSD 16 inch IPS QHD Laptop 119,DELL,29468,Intel Core i9 13900H,64 GB,256,1,4.2
+DELL Core i7 13620H 16 GB 1 SSD 14 inch OLED Laptop 120,DELL,27461,Intel Core i7 13620H,16 GB,1,2,4.7
+Acer Ryzen 9 8945HS 64 GB 512 SSD 16 inch IPS QHD Laptop 001,Acer,76899,AMD Ryzen 9 8945HS,64 GB,512,2,4.1
+Acer Ryzen 7 7840HS 16 GB 512 SSD 16 inch OLED Laptop 002,Acer,29907,AMD Ryzen 7 7840HS,16 GB,512,1,4.6
+Acer Pentium Silver N6000 24 GB 2 SSD 15.6 inch FHD Laptop 003,Acer,36230,Intel Pentium Silver N6000,24 GB,2,1,3.7
+Acer Ryzen 3 7320U 8 GB 1 SSD 16 inch IPS QHD Laptop 004,Acer,88754,AMD Ryzen 3 7320U,8 GB,1,2,3.5
+Acer Core 7 150U 16 GB 128 SSD 16 inch IPS QHD Laptop 005,Acer,48694,Intel Core 7 150U,16 GB,128,1,4.1
+Acer Core i5 1235U 4 GB 512 SSD 16 inch WUXGA Laptop 006,Acer,37260,Intel Core i5 1235U,4 GB,512,2,3.7
+Acer Core i5 1235U 16 GB 512 SSD 14 inch OLED Laptop 007,Acer,135186,Intel Core i5 1235U,16 GB,512,3,3.7
+Acer Core i9 13900H 64 GB 1 SSD 16 inch IPS QHD Laptop 008,Acer,63717,Intel Core i9 13900H,64 GB,1,2,4.5
+Acer Ryzen 3 7320U 16 GB 512 SSD 14 inch WUXGA Laptop 009,Acer,28539,AMD Ryzen 3 7320U,16 GB,512,2,4.1
+Acer Core i5 1235U 16 GB 512 SSD 14 inch OLED Laptop 010,Acer,139864,Intel Core i5 1235U,16 GB,512,1,3.6
+Acer Ryzen 5 7530U 16 GB 512 SSD 15.6 inch FHD Laptop 011,Acer,51372,AMD Ryzen 5 7530U,16 GB,512,4,3.9
+Acer Athlon Silver 3050U 16 GB 2 SSD 14 inch OLED Laptop 012,Acer,64494,AMD Athlon Silver 3050U,16 GB,2,2,3.6
+Acer Core i7 13620H 4 GB 256 SSD 16 inch IPS QHD Laptop 013,Acer,53903,Intel Core i7 13620H,4 GB,256,1,3.9
+Acer Core i5 1235U 8 GB 512 SSD 15.6 inch FHD Laptop 014,Acer,57264,Intel Core i5 1235U,8 GB,512,3,3.9
+Acer Core i9 13900H 4 GB 2 SSD 14 inch OLED Laptop 015,Acer,26706,Intel Core i9 13900H,4 GB,2,1,4.7
+Acer Pentium Silver N6000 8 GB 128 SSD 15.6 inch FHD Laptop 016,Acer,42821,Intel Pentium Silver N6000,8 GB,128,3,3.2
+Acer Unspecified Compute Platform 8 GB 512 SSD 14 inch OLED Laptop 017,Acer,127821,Unspecified Compute Platform,8 GB,512,2,3.0
+Acer Core i7 13620H 8 GB 128 SSD 14 inch OLED Laptop 018,Acer,26899,Intel Core i7 13620H,8 GB,128,2,4.1
+Acer Core 3 100U 64 GB 256 SSD 16 inch WUXGA Laptop 019,Acer,44297,Intel Core 3 100U,64 GB,256,4,4.1
+Acer Pentium Silver N6000 16 GB 2 SSD 16 inch IPS QHD Laptop 020,Acer,100854,Intel Pentium Silver N6000,16 GB,2,1,3.4
+Acer Core 3 100U 4 GB 256 SSD 14 inch WUXGA Laptop 021,Acer,26594,Intel Core 3 100U,4 GB,256,2,4.0
+Acer Core Ultra 5 64 GB 128 SSD 16 inch OLED Laptop 022,Acer,36845,Intel Core Ultra 5 125H,64 GB,128,2,3.7
+Acer Ryzen AI 9 4 GB 256 SSD 14 inch OLED Laptop 023,Acer,98698,AMD Ryzen AI 9 HX 370,4 GB,256,3,3.9
+Acer Ryzen 9 8945HS 24 GB 2 SSD 16 inch OLED Laptop 024,Acer,27377,AMD Ryzen 9 8945HS,24 GB,2,4,4.8
+Acer Ryzen 9 8945HS 24 GB 2 SSD 14 inch OLED Laptop 025,Acer,28058,AMD Ryzen 9 8945HS,24 GB,2,3,4.7
+Acer Ryzen 7 7840HS 8 GB 1 SSD 16 inch IPS QHD Laptop 026,Acer,103365,AMD Ryzen 7 7840HS,8 GB,1,2,4.2
+Acer Core 7 150U 8 GB 512 SSD 16 inch OLED Laptop 027,Acer,24014,Intel Core 7 150U,8 GB,512,2,4.2
+Acer Ryzen 5 7530U 16 GB 2 SSD 16 inch IPS QHD Laptop 028,Acer,112632,AMD Ryzen 5 7530U,16 GB,2,1,3.3
+Acer Core 5 120U 4 GB 512 SSD 15.6 inch IPS Laptop 029,Acer,54857,Intel Core 5 120U,4 GB,512,1,3.8
+Acer Core i7 13620H 16 GB 512 SSD 16 inch OLED Laptop 030,Acer,124089,Intel Core i7 13620H,16 GB,512,2,4.3
+Acer Core Ultra 5 4 GB 1 SSD 16 inch IPS QHD Laptop 031,Acer,55917,Intel Core Ultra 5 125H,4 GB,1,4,3.8
+Acer Qualcomm Reference Chip 8 GB 2 SSD 15.6 inch IPS Laptop 032,Acer,32017,Qualcomm Reference Chip,8 GB,2,2,3.4
+Acer Unspecified Compute Platform 8 GB 2 SSD 16 inch WUXGA Laptop 033,Acer,32830,Unspecified Compute Platform,8 GB,2,1,3.4
+Acer Ryzen 3 7320U 64 GB 1 SSD 14 inch FHD Laptop 034,Acer,28859,AMD Ryzen 3 7320U,64 GB,1,2,3.9
+Acer Ryzen 3 7320U 8 GB 1 SSD 13.3 inch FHD Laptop 035,Acer,27114,AMD Ryzen 3 7320U,8 GB,1,4,4.0
+Acer Athlon Silver 3050U 8 GB 1 SSD 16 inch OLED Laptop 036,Acer,82310,AMD Athlon Silver 3050U,8 GB,1,2,3.4
+Acer MediaTek Kompanio 520 16 GB 512 SSD 16 inch IPS QHD Laptop 037,Acer,138270,MediaTek Kompanio 520,16 GB,512,4,3.8
+Acer Core Ultra 5 64 GB 2 SSD 16 inch OLED Laptop 038,Acer,25033,Intel Core Ultra 5 125H,64 GB,2,2,4.9
+Acer Core i3 1215U 16 GB 256 SSD 16 inch WUXGA Laptop 039,Acer,53430,Intel Core i3 1215U,16 GB,256,4,3.4
+Acer Ryzen 7 7840HS 16 GB 256 SSD 16 inch OLED Laptop 040,Acer,55570,AMD Ryzen 7 7840HS,16 GB,256,1,4.1
+Acer Core i3 1215U 32 GB 128 SSD 16 inch WUXGA Laptop 041,Acer,46167,Intel Core i3 1215U,32 GB,128,2,3.9
+Acer Snapdragon X Plus 32 GB 256 SSD 13.3 inch FHD Laptop 042,Acer,29594,Snapdragon X Plus X1P-42-100,32 GB,256,1,3.8
+Acer Qualcomm Reference Chip 32 GB 256 SSD 16 inch WUXGA Laptop 043,Acer,45562,Qualcomm Reference Chip,32 GB,256,1,3.7
+Acer Core 5 120U 24 GB 2 SSD 15.6 inch FHD Laptop 044,Acer,32730,Intel Core 5 120U,24 GB,2,1,3.9
+Acer Core Ultra 7 4 GB 512 SSD 14 inch OLED Laptop 045,Acer,27766,Intel Core Ultra 7 155H,4 GB,512,4,4.5
+Acer Core 9 185H 64 GB 2 SSD 14 inch OLED Laptop 046,Acer,28274,Intel Core 9 185H,64 GB,2,1,4.5
+Acer Athlon Silver 3050U 64 GB 1 SSD 14 inch OLED Laptop 047,Acer,87197,AMD Athlon Silver 3050U,64 GB,1,3,3.7
+Acer Unspecified Compute Platform 64 GB 256 SSD 15.6 inch IPS Laptop 048,Acer,56804,Unspecified Compute Platform,64 GB,256,3,4.1
+Acer Celeron N4500 24 GB 512 SSD 14 inch OLED Laptop 049,Acer,116224,Intel Celeron N4500,24 GB,512,3,3.7
+Acer Core 5 120U 4 GB 256 SSD 16 inch WUXGA Laptop 050,Acer,36516,Intel Core 5 120U,4 GB,256,2,3.6
+Acer Celeron N4500 24 GB 256 SSD 16 inch IPS QHD Laptop 051,Acer,133686,Intel Celeron N4500,24 GB,256,4,3.2
+Acer Ryzen 3 7320U 24 GB 128 SSD 13.3 inch FHD Laptop 052,Acer,27115,AMD Ryzen 3 7320U,24 GB,128,2,4.1
+Acer Core 3 100U 16 GB 512 SSD 14 inch OLED Laptop 053,Acer,65282,Intel Core 3 100U,16 GB,512,1,3.5
+Acer MediaTek Kompanio 520 64 GB 1 SSD 15.6 inch IPS Laptop 054,Acer,57923,MediaTek Kompanio 520,64 GB,1,1,3.5
+Acer Ryzen 3 7320U 8 GB 512 SSD 14 inch FHD Laptop 055,Acer,27085,AMD Ryzen 3 7320U,8 GB,512,1,3.9
+Acer Unspecified Compute Platform 16 GB 2 SSD 14 inch FHD Laptop 056,Acer,27023,Unspecified Compute Platform,16 GB,2,3,3.9
+Acer Snapdragon X Plus 16 GB 256 SSD 13.3 inch FHD Laptop 057,Acer,25759,Snapdragon X Plus X1P-42-100,16 GB,256,2,3.9
+Acer Unspecified Compute Platform 24 GB 512 SSD 16 inch WUXGA Laptop 058,Acer,54000,Unspecified Compute Platform,24 GB,512,4,4.0
+Acer Qualcomm Reference Chip 32 GB 512 SSD 14 inch FHD Laptop 059,Acer,29023,Qualcomm Reference Chip,32 GB,512,2,4.0
+Acer Core i3 1215U 24 GB 128 SSD 16 inch WUXGA Laptop 060,Acer,59968,Intel Core i3 1215U,24 GB,128,3,4.1
+Acer Qualcomm Reference Chip 4 GB 2 SSD 14 inch FHD Laptop 061,Acer,25691,Qualcomm Reference Chip,4 GB,2,3,3.9
+Acer Athlon Silver 3050U 4 GB 512 SSD 14 inch OLED Laptop 062,Acer,130069,AMD Athlon Silver 3050U,4 GB,512,1,3.0
+Acer Core Ultra 7 16 GB 512 SSD 14 inch OLED Laptop 063,Acer,122460,Intel Core Ultra 7 155H,16 GB,512,4,4.3
+Acer Core i9 13900H 4 GB 128 SSD 16 inch OLED Laptop 064,Acer,113937,Intel Core i9 13900H,4 GB,128,1,3.8
+Acer Unspecified Compute Platform 32 GB 512 SSD 15.6 inch IPS Laptop 065,Acer,48507,Unspecified Compute Platform,32 GB,512,4,4.2
+Acer Core 5 120U 16 GB 2 SSD 14 inch WUXGA Laptop 066,Acer,28804,Intel Core 5 120U,16 GB,2,2,4.3
+Acer Unspecified Compute Platform 16 GB 128 SSD 14 inch OLED Laptop 067,Acer,102190,Unspecified Compute Platform,16 GB,128,2,3.4
+Acer Ryzen 9 8945HS 8 GB 512 SSD 16 inch IPS QHD Laptop 068,Acer,40192,AMD Ryzen 9 8945HS,8 GB,512,1,4.4
+Acer Qualcomm Reference Chip 64 GB 512 SSD 13.3 inch FHD Laptop 069,Acer,25968,Qualcomm Reference Chip,64 GB,512,3,3.9
+Acer MediaTek Kompanio 520 32 GB 1 SSD 14 inch OLED Laptop 070,Acer,65685,MediaTek Kompanio 520,32 GB,1,1,3.4
+Acer Core Ultra 7 16 GB 256 SSD 16 inch IPS QHD Laptop 071,Acer,134165,Intel Core Ultra 7 155H,16 GB,256,2,4.1
+Acer Athlon Silver 3050U 8 GB 512 SSD 13.3 inch FHD Laptop 072,Acer,29707,AMD Athlon Silver 3050U,8 GB,512,3,3.6
+Acer Pentium Silver N6000 8 GB 1 SSD 13.3 inch FHD Laptop 073,Acer,24780,Intel Pentium Silver N6000,8 GB,1,3,3.7
+Acer Athlon Silver 3050U 16 GB 512 SSD 16 inch WUXGA Laptop 074,Acer,38161,AMD Athlon Silver 3050U,16 GB,512,2,3.5
+Acer Core 7 150U 8 GB 512 SSD 16 inch OLED Laptop 075,Acer,24024,Intel Core 7 150U,8 GB,512,4,4.2
+Acer Core i7 13620H 4 GB 128 SSD 16 inch IPS QHD Laptop 076,Acer,25193,Intel Core i7 13620H,4 GB,128,3,4.3
+Acer Core i5 1235U 32 GB 512 SSD 16 inch IPS QHD Laptop 077,Acer,95197,Intel Core i5 1235U,32 GB,512,2,3.9
+Acer Core 7 150U 16 GB 2 SSD 16 inch IPS QHD Laptop 078,Acer,63274,Intel Core 7 150U,16 GB,2,2,4.2
+Acer Core Ultra 5 64 GB 512 SSD 16 inch IPS QHD Laptop 079,Acer,109692,Intel Core Ultra 5 125H,64 GB,512,2,4.2
+Acer Ryzen 9 8945HS 4 GB 128 SSD 16 inch IPS QHD Laptop 080,Acer,36472,AMD Ryzen 9 8945HS,4 GB,128,4,4.3
+Acer Qualcomm Reference Chip 4 GB 256 SSD 16 inch IPS QHD Laptop 081,Acer,113610,Qualcomm Reference Chip,4 GB,256,2,3.3
+Acer Core i3 1215U 4 GB 256 SSD 14 inch FHD Laptop 082,Acer,24886,Intel Core i3 1215U,4 GB,256,1,3.5
+Acer MediaTek Kompanio 520 4 GB 512 SSD 16 inch WUXGA Laptop 083,Acer,41555,MediaTek Kompanio 520,4 GB,512,1,3.4
+Acer Unspecified Compute Platform 64 GB 2 SSD 14 inch OLED Laptop 084,Acer,117813,Unspecified Compute Platform,64 GB,2,1,3.9
+Acer Unspecified Compute Platform 32 GB 128 SSD 14 inch OLED Laptop 085,Acer,78832,Unspecified Compute Platform,32 GB,128,3,3.8
+Acer MediaTek Kompanio 520 8 GB 256 SSD 14 inch FHD Laptop 086,Acer,28642,MediaTek Kompanio 520,8 GB,256,1,3.5
+Acer Core Ultra 7 4 GB 256 SSD 14 inch OLED Laptop 087,Acer,33730,Intel Core Ultra 7 155H,4 GB,256,1,3.8
+Acer Athlon Silver 3050U 16 GB 512 SSD 16 inch OLED Laptop 088,Acer,68078,AMD Athlon Silver 3050U,16 GB,512,2,3.4
+Acer Core i5 1235U 4 GB 256 SSD 16 inch IPS QHD Laptop 089,Acer,106353,Intel Core i5 1235U,4 GB,256,4,3.5
+Acer Core 7 150U 16 GB 256 SSD 14 inch OLED Laptop 090,Acer,24682,Intel Core 7 150U,16 GB,256,1,4.3
+Acer Ryzen 5 7530U 32 GB 128 SSD 15.6 inch IPS Laptop 091,Acer,33450,AMD Ryzen 5 7530U,32 GB,128,4,4.4
+Acer Snapdragon X Plus 16 GB 1 SSD 15.6 inch IPS Laptop 092,Acer,38630,Snapdragon X Plus X1P-42-100,16 GB,1,2,4.3
+Acer Core 5 120U 16 GB 1 SSD 13.3 inch FHD Laptop 093,Acer,26581,Intel Core 5 120U,16 GB,1,1,3.7
+Acer Unspecified Compute Platform 64 GB 512 SSD 13.3 inch FHD Laptop 094,Acer,29657,Unspecified Compute Platform,64 GB,512,3,4.2
+Acer Ryzen 5 7530U 16 GB 512 SSD 13.3 inch FHD Laptop 095,Acer,27241,AMD Ryzen 5 7530U,16 GB,512,1,4.0
+Acer Core i3 1215U 16 GB 2 SSD 13.3 inch FHD Laptop 096,Acer,29235,Intel Core i3 1215U,16 GB,2,1,4.0
+Acer Core i9 13900H 32 GB 1 SSD 16 inch OLED Laptop 097,Acer,43677,Intel Core i9 13900H,32 GB,1,4,4.9
+Acer Unspecified Compute Platform 16 GB 2 SSD 15.6 inch FHD Laptop 098,Acer,38180,Unspecified Compute Platform,16 GB,2,1,3.7
+Acer Core 9 185H 16 GB 256 SSD 16 inch OLED Laptop 099,Acer,45354,Intel Core 9 185H,16 GB,256,4,4.1
+Acer Core i5 1235U 16 GB 2 SSD 16 inch IPS QHD Laptop 100,Acer,81959,Intel Core i5 1235U,16 GB,2,1,3.7
+Acer Core 9 185H 4 GB 512 SSD 16 inch IPS QHD Laptop 101,Acer,79531,Intel Core 9 185H,4 GB,512,2,4.4
+Acer Pentium Silver N6000 24 GB 512 SSD 14 inch WUXGA Laptop 102,Acer,26279,Intel Pentium Silver N6000,24 GB,512,2,4.2
+Acer Core i7 13620H 16 GB 2 SSD 16 inch OLED Laptop 103,Acer,26159,Intel Core i7 13620H,16 GB,2,1,4.4
+Acer Core Ultra 5 32 GB 256 SSD 14 inch OLED Laptop 104,Acer,65065,Intel Core Ultra 5 125H,32 GB,256,2,3.9
+Acer Qualcomm Reference Chip 64 GB 512 SSD 16 inch WUXGA Laptop 105,Acer,53956,Qualcomm Reference Chip,64 GB,512,1,3.7
+Acer Snapdragon X Plus 16 GB 512 SSD 16 inch IPS QHD Laptop 106,Acer,88729,Snapdragon X Plus X1P-42-100,16 GB,512,1,3.2
+Acer Ryzen AI 9 16 GB 256 SSD 14 inch OLED Laptop 107,Acer,25668,AMD Ryzen AI 9 HX 370,16 GB,256,4,4.4
+Acer Core i3 1215U 16 GB 128 SSD 16 inch WUXGA Laptop 108,Acer,32037,Intel Core i3 1215U,16 GB,128,2,3.7
+Acer Core i5 1235U 16 GB 256 SSD 15.6 inch IPS Laptop 109,Acer,52374,Intel Core i5 1235U,16 GB,256,2,3.5
+Acer Core 5 120U 16 GB 1 SSD 13.3 inch FHD Laptop 110,Acer,28566,Intel Core 5 120U,16 GB,1,1,4.0
