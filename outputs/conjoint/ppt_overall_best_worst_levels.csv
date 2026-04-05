@@ -1,0 +1,7 @@
+attribute,best_level,raw_partworth_vs_baseline_best,zero_centered_partworth_best,worst_level,raw_partworth_vs_baseline_worst,zero_centered_partworth_worst
+Company_Bucket_10,ASUS,0.0,0.14450284056243748,Acer,-0.3469834163317699,-0.2024805757693324
+Price_Bucket,Budget,0.0,0.18380601051878595,Premium,-0.37682281135794715,-0.1930168008391612
+Processor_Tier,Premium performance,0.6092927186394039,0.3282248448514638,Entry,0.0,-0.2810678737879401
+RAM_Bucket,24 GB or more,0.2605394408612967,0.13297785963389605,8 GB or less,0.0,-0.12756158122740066
+Storage_Bucket,1 TB or more,0.2947044315729861,0.13829205031869465,256 GB or less,0.0,-0.15641238125429144
+Warranty_Bucket,3+ years,0.19469313520659928,0.08813566007405607,1 year,0.0,-0.10655747513254321

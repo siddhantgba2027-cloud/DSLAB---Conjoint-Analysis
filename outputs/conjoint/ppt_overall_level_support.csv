@@ -1,0 +1,24 @@
+attribute,level,n_products
+Company_Bucket_10,ASUS,140
+Company_Bucket_10,Lenovo,140
+Company_Bucket_10,HP,125
+Company_Bucket_10,DELL,120
+Company_Bucket_10,Acer,110
+Price_Bucket,Budget,213
+Price_Bucket,Mid-range,213
+Price_Bucket,Premium,209
+Processor_Tier,Entry,108
+Processor_Tier,Mainstream,108
+Processor_Tier,Upper mainstream,105
+Processor_Tier,Performance,105
+Processor_Tier,Premium performance,105
+Processor_Tier,Other,104
+RAM_Bucket,16 GB,213
+RAM_Bucket,8 GB or less,213
+RAM_Bucket,24 GB or more,209
+Storage_Bucket,256 GB or less,213
+Storage_Bucket,512 GB,213
+Storage_Bucket,1 TB or more,209
+Warranty_Bucket,1 year,213
+Warranty_Bucket,2 years,213
+Warranty_Bucket,3+ years,209

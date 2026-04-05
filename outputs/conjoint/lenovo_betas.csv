@@ -1,0 +1,14 @@
+term,beta,p_value,attribute,level
+Price_Bucket::Mid-range,-0.20278646649558868,4.467657144152419e-06,Price_Bucket,Mid-range
+Price_Bucket::Premium,-0.3794694611971975,8.565656527204037e-16,Price_Bucket,Premium
+Processor_Tier::Mainstream,0.25126223007800713,0.0004203394728182764,Processor_Tier,Mainstream
+Processor_Tier::Upper mainstream,0.26173646363871367,1.1671356504785766e-05,Processor_Tier,Upper mainstream
+Processor_Tier::Performance,0.3902307575635715,7.966078441884987e-09,Processor_Tier,Performance
+Processor_Tier::Premium performance,0.5406987844796183,2.2431821900700394e-19,Processor_Tier,Premium performance
+Processor_Tier::Other,0.07189202909952676,0.19063566840819302,Processor_Tier,Other
+RAM_Bucket::16 GB,0.20839153257262286,3.6805809802289696e-05,RAM_Bucket,16 GB
+RAM_Bucket::24 GB or more,0.3493305916712922,4.8091706702262754e-12,RAM_Bucket,24 GB or more
+Storage_Bucket::512 GB,0.1305033710555637,0.007497244678347045,Storage_Bucket,512 GB
+Storage_Bucket::1 TB or more,0.2650267636508326,5.34157908834873e-09,Storage_Bucket,1 TB or more
+Warranty_Bucket::2 years,0.13849621206004403,0.003124165873732277,Warranty_Bucket,2 years
+Warranty_Bucket::3+ years,0.20983629793881864,8.196103428884204e-06,Warranty_Bucket,3+ years

@@ -1,0 +1,18 @@
+term,beta,p_value,attribute,level
+Company_Bucket_10::Lenovo,-0.07071428571428731,0.003960382660267482,Company_Bucket_10,Lenovo
+Company_Bucket_10::HP,-0.16792236064925972,2.8161852512029105e-11,Company_Bucket_10,HP
+Company_Bucket_10::DELL,-0.13689414011687048,6.977095724712604e-07,Company_Bucket_10,DELL
+Company_Bucket_10::Acer,-0.3469834163317699,1.3430648690197973e-38,Company_Bucket_10,Acer
+Price_Bucket::Mid-range,-0.1745952201984107,2.2304348346834483e-18,Price_Bucket,Mid-range
+Price_Bucket::Premium,-0.37682281135794715,2.0751955310105628e-68,Price_Bucket,Premium
+Processor_Tier::Mainstream,0.21334490040227547,7.938913223331161e-13,Processor_Tier,Mainstream
+Processor_Tier::Upper mainstream,0.2940018998573636,1.368632205681482e-24,Processor_Tier,Upper mainstream
+Processor_Tier::Performance,0.4461161857775404,1.5645036247041966e-49,Processor_Tier,Performance
+Processor_Tier::Premium performance,0.6092927186394039,2.0452875487375785e-103,Processor_Tier,Premium performance
+Processor_Tier::Other,0.12365153805105732,2.048300825656695e-05,Processor_Tier,Other
+RAM_Bucket::16 GB,0.12214530282090529,2.179978349838039e-08,RAM_Bucket,16 GB
+RAM_Bucket::24 GB or more,0.2605394408612967,5.514567188596077e-34,RAM_Bucket,24 GB or more
+Storage_Bucket::512 GB,0.1745327121898882,1.0408338644741117e-16,Storage_Bucket,512 GB
+Storage_Bucket::1 TB or more,0.2947044315729861,4.831537480506809e-45,Storage_Bucket,1 TB or more
+Warranty_Bucket::2 years,0.12497929019103034,5.9413575283004245e-09,Warranty_Bucket,2 years
+Warranty_Bucket::3+ years,0.19469313520659928,2.826907976163941e-19,Warranty_Bucket,3+ years
